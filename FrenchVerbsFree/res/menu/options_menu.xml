@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/download" android:title="@string/download"></item>
+	<item android:id="@+id/englishmode_true" android:title="@string/english_menu_option"
+		android:icon="@android:drawable/ic_menu_rotate" android:visible="false"
+		android:enabled="true"></item>
+	<item android:id="@+id/englishmode_false" android:title="@string/french_menu_option"
+		android:icon="@android:drawable/ic_menu_rotate"></item>
+	<item android:id="@+id/shuffle" android:title="@string/shuffle"
+		android:icon="@android:drawable/ic_menu_sort_by_size"></item>
+	<item android:id="@+id/back" android:title="@string/back"
+		android:icon="@android:drawable/ic_menu_revert"></item>
+	<item android:id="@+id/background" android:title="@string/background"
+		android:icon="@android:drawable/ic_menu_gallery"></item>
+	<item android:id="@+id/select_bg" android:title="@string/select_bg"
+		android:icon="@android:drawable/ic_menu_save"></item>
+	<item android:id="@+id/speak" android:title="@string/speak"
+		android:icon="@android:drawable/ic_btn_speak_now"></item>
+	<item android:id="@+id/vocab" android:title="@string/vocab"
+		android:icon="@android:drawable/ic_menu_agenda"></item>
+	<item android:id="@+id/help" android:title="@string/help"
+		android:icon="@android:drawable/ic_menu_info_details"></item>
+	<item android:id="@+id/options_menu_close" android:title="@string/options_menu_quit"
+		android:icon="@android:drawable/ic_menu_close_clear_cancel"></item>
+	<item android:id="@+id/change_font_size" android:title="Change Font Size"></item>
+</menu>

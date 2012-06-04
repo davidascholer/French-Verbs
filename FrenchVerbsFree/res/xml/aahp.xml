@@ -1,0 +1,96 @@
+<deck>
+<card number="2" text= "habiter" />
+<card number="1" text="to live" />
+<card number="4" text="hésiter" />
+<card number="3" text="to hesitate" />
+<card number="6" text= "inquiéter" />
+<card number="5" text="to worry" />
+<card number="8" text="inscrire" />
+<card number="7" text="to write down" />
+<card number="10" text= "intéresser" />
+<card number="9" text="to interest" />
+<card number="12" text="inviter" />
+<card number="11" text="to invite" />
+<card number="14" text= "jouer" />
+<card number="13" text="to play" />
+<card number="16" text= "laisser" />
+<card number="15" text="to leave" />
+<card number="18" text="laver" />
+<card number="17" text="to wash" />
+<card number="20" text= "lever" />
+<card number="19" text="to lift" />
+<card number="22" text= "lire" />
+<card number="21" text="to read" />
+<card number="24" text="manger" />
+<card number="23" text="to eat" />
+<card number="26" text= "mettre" />
+<card number="25" text="to put" />
+<card number="28" text= "montrer" />
+<card number="27" text="to show" />
+<card number="30" text="mourir" />
+<card number="29" text="to die" />
+<card number="32" text= "nager" />
+<card number="31" text="to swim" />
+<card number="34" text= "naître" />
+<card number="33" text="to be born" />
+<card number="36" text="obtenir" />
+<card number="35" text="to obtain" />
+<card number="38" text= "offrir" />
+<card number="37" text="to offer" />
+<card number="40" text="organiser" />
+<card number="39" text="to organize" />
+<card number="42" text= "oublier" />
+<card number="41" text="to forget" />
+<card number="44" text="ouvrir" />
+<card number="43" text="to open" />
+<card number="46" text= "paraître" />
+<card number="45" text="to seem" />
+<card number="48" text= "parler" />
+<card number="47" text="to talk" />
+<card number="50" text="partager" />
+<card number="49" text="to share" />
+<card number="52" text= "partir" />
+<card number="51" text="to leave" />
+<card number="54" text= "parvenir" />
+<card number="53" text="to reach" />
+<card number="56" text="passer" />
+<card number="55" text="to spend (time)" />
+<card number="58" text= "payer" />
+<card number="57" text="to pay" />
+<card number="60" text= "peigner" />
+<card number="59" text="to comb" />
+<card number="62" text="penser" />
+<card number="61" text="to think" />
+<card number="64" text= "perdre" />
+<card number="63" text="to lose" />
+<card number="66" text= "plaindre" />
+<card number="65" text="to pity" />
+<card number="68" text="plaire" />
+<card number="67" text="to please" />
+<card number="70" text= "plaisanter" />
+<card number="69" text="to joke" />
+<card number="72" text= "pleurer" />
+<card number="71" text="to cry" />
+<card number="74" text="pleuvoir" />
+<card number="73" text="to rain" />
+<card number="76" text= "porter" />
+<card number="75" text="to wear" />
+<card number="78" text= "poser" />
+<card number="77" text="to put" />
+<card number="80" text="posséder" />
+<card number="79" text="to possess" />
+<card number="82" text= "pouvoir" />
+<card number="81" text="to be able" />
+<card number="84" text="pratiquer" />
+<card number="83" text="to practice" />
+<card number="86" text= "préférer" />
+<card number="85" text="to prefer" />
+<card number="88" text="prendre" />
+<card number="87" text="to take" />
+<card number="90" text= "prêter" />
+<card number="89" text="to loan" />
+<card number="92" text= "prévoir" />
+<card number="91" text="to foresee" />
+<card number="94" text="proposer" />
+<card number="93" text="to suggest, propose" />
+</deck>

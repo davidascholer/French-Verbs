@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je suis" />
+<card number="2" text="tu suis" />
+<card number="3" text="il suit" />
+<card number="4" text="nous suivons" />
+<card number="5" text="vous suivez" />
+<card number="6" text="ils suivent" />
+<card number="7" text="je suivis" />
+<card number="8" text="tu suivis" />
+<card number="9" text="il suivit" />
+<card number="10" text="nous suivîmes" />
+<card number="11" text="vous suivîtes" />
+<card number="12" text="ils suivirent" />
+<card number="13" text="j'ai suivi" />
+<card number="14" text="tu as suivi" />
+<card number="15" text="il a suivi" />
+<card number="16" text="nous avons suivi" />
+<card number="17" text="vous avez suivi" />
+<card number="18" text="ils ont suivi" />
+<card number="19" text="j'eus suivi" />
+<card number="20" text="tu eus suivi" />
+<card number="21" text="il eut suivi" />
+<card number="22" text="nous eûmes suivi" />
+<card number="23" text="vous eûtes suivi" />
+<card number="24" text="ils eurent suivi" />
+<card number="25" text="je suivais" />
+<card number="26" text="tu suivais" />
+<card number="27" text="il suivait" />
+<card number="28" text="nous suivions" />
+<card number="29" text="vous suiviez" />
+<card number="30" text="ils suivaient" />
+<card number="31" text="je suivrai" />
+<card number="32" text="tu suivras" />
+<card number="33" text="il suivra" />
+<card number="34" text="nous suivrons" />
+<card number="35" text="vous suivrez" />
+<card number="36" text="ils suivront" />
+<card number="37" text="j'avais suivi" />
+<card number="38" text="tu avais suivi" />
+<card number="39" text="il avait suivi" />
+<card number="40" text="nous avions suivi" />
+<card number="41" text="vous aviez suivi" />
+<card number="42" text="ils avaient suivi" />
+<card number="43" text="j'aurai suivi" />
+<card number="44" text="tu auras suivi" />
+<card number="45" text="il aura suivi" />
+<card number="46" text="nous aurons suivi" />
+<card number="47" text="vous aurez suivi" />
+<card number="48" text="ils auront suivi" />
+<card number="49" text="que je suive" />
+<card number="50" text="que tu suives" />
+<card number="51" text="qu'il suive" />
+<card number="52" text="que nous suivions" />
+<card number="53" text="que vous suiviez" />
+<card number="54" text="qu'ils suivent" />
+<card number="55" text="que j'aie suivi" />
+<card number="56" text="que tu aies suivi" />
+<card number="57" text="qu'il ait suivi" />
+<card number="58" text="que nous ayons suivi" />
+<card number="59" text="que vous ayez suivi" />
+<card number="60" text="qu'ils aient suivi" />
+<card number="61" text="que je suivisse" />
+<card number="62" text="que tu suivisses" />
+<card number="63" text="qu'il suivît" />
+<card number="64" text="que nous suivissions" />
+<card number="65" text="que vous suivissiez" />
+<card number="66" text="qu'ils suivissent" />
+<card number="67" text="que j'eusse suivi" />
+<card number="68" text="que tu eusses suivi" />
+<card number="69" text="qu'il eût suivi" />
+<card number="70" text="que nous eussions suivi" />
+<card number="71" text="que vous eussiez suivi" />
+<card number="72" text="qu'ils eussent suivi" />
+<card number="73" text="je suivrais" />
+<card number="74" text="tu suivrais" />
+<card number="75" text="il suivrait" />
+<card number="76" text="nous suivrions" />
+<card number="77" text="vous suivriez" />
+<card number="78" text="ils suivraient" />
+<card number="79" text="j'aurais suivi" />
+<card number="80" text="tu aurais suivi" />
+<card number="81" text="il aurait suivi" />
+<card number="82" text="nous aurions suivi" />
+<card number="83" text="vous auriez suivi" />
+<card number="84" text="ils auraient suivi" />
+<card number="85" text="j'eusse suivi" />
+<card number="86" text="tu eusses suivi" />
+<card number="87" text="il eût suivi" />
+<card number="88" text="nous eussions suivi" />
+<card number="89" text="vous eussiez suivi" />
+<card number="90" text="ils eussent suivi" />
+<card number="91" text="suis" />
+<card number="92" text="suivons" />
+<card number="93" text="suivez" />
+<card number="94" text="aie suivi" />
+<card number="95" text="ayons suivi" />
+<card number="96" text="ayez suivi" />
+<card number="97" text="suivre" />
+<card number="98" text="avoir suivi" />
+<card number="99" text="suivant" />
+<card number="100" text="suivi" />
+</deck>

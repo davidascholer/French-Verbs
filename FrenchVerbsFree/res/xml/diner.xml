@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je dîne" />
+<card number="2" text="tu dînes" />
+<card number="3" text="il dîne" />
+<card number="4" text="nous dînons" />
+<card number="5" text="vous dînez" />
+<card number="6" text="ils dînent" />
+<card number="7" text="je dînai" />
+<card number="8" text="tu dînas" />
+<card number="9" text="il dîna" />
+<card number="10" text="nous dînâmes" />
+<card number="11" text="vous dînâtes" />
+<card number="12" text="ils dînèrent" />
+<card number="13" text="j'ai dîné" />
+<card number="14" text="tu as dîné" />
+<card number="15" text="il a dîné" />
+<card number="16" text="nous avons dîné" />
+<card number="17" text="vous avez dîné" />
+<card number="18" text="ils ont dîné" />
+<card number="19" text="j'eus dîné" />
+<card number="20" text="tu eus dîné" />
+<card number="21" text="il eut dîné" />
+<card number="22" text="nous eûmes dîné" />
+<card number="23" text="vous eûtes dîné" />
+<card number="24" text="ils eurent dîné" />
+<card number="25" text="je dînais" />
+<card number="26" text="tu dînais" />
+<card number="27" text="il dînait" />
+<card number="28" text="nous dînions" />
+<card number="29" text="vous dîniez" />
+<card number="30" text="ils dînaient" />
+<card number="31" text="je dînerai" />
+<card number="32" text="tu dîneras" />
+<card number="33" text="il dînera" />
+<card number="34" text="nous dînerons" />
+<card number="35" text="vous dînerez" />
+<card number="36" text="ils dîneront" />
+<card number="37" text="j'avais dîné" />
+<card number="38" text="tu avais dîné" />
+<card number="39" text="il avait dîné" />
+<card number="40" text="nous avions dîné" />
+<card number="41" text="vous aviez dîné" />
+<card number="42" text="ils avaient dîné" />
+<card number="43" text="j'aurai dîné" />
+<card number="44" text="tu auras dîné" />
+<card number="45" text="il aura dîné" />
+<card number="46" text="nous aurons dîné" />
+<card number="47" text="vous aurez dîné" />
+<card number="48" text="ils auront dîné" />
+<card number="49" text="que je dîne" />
+<card number="50" text="que tu dînes" />
+<card number="51" text="qu'il dîne" />
+<card number="52" text="que nous dînions" />
+<card number="53" text="que vous dîniez" />
+<card number="54" text="qu'ils dînent" />
+<card number="55" text="que j'aie dîné" />
+<card number="56" text="que tu aies dîné" />
+<card number="57" text="qu'il ait dîné" />
+<card number="58" text="que nous ayons dîné" />
+<card number="59" text="que vous ayez dîné" />
+<card number="60" text="qu'ils aient dîné" />
+<card number="61" text="que je dînasse" />
+<card number="62" text="que tu dînasses" />
+<card number="63" text="qu'il dînât" />
+<card number="64" text="que nous dînassions" />
+<card number="65" text="que vous dînassiez" />
+<card number="66" text="qu'ils dînassent" />
+<card number="67" text="que j'eusse dîné" />
+<card number="68" text="que tu eusses dîné" />
+<card number="69" text="qu'il eût dîné" />
+<card number="70" text="que nous eussions dîné" />
+<card number="71" text="que vous eussiez dîné" />
+<card number="72" text="qu'ils eussent dîné" />
+<card number="73" text="je dînerais" />
+<card number="74" text="tu dînerais" />
+<card number="75" text="il dînerait" />
+<card number="76" text="nous dînerions" />
+<card number="77" text="vous dîneriez" />
+<card number="78" text="ils dîneraient" />
+<card number="79" text="j'aurais dîné" />
+<card number="80" text="tu aurais dîné" />
+<card number="81" text="il aurait dîné" />
+<card number="82" text="nous aurions dîné" />
+<card number="83" text="vous auriez dîné" />
+<card number="84" text="ils auraient dîné" />
+<card number="85" text="j'eusse dîné" />
+<card number="86" text="tu eusses dîné" />
+<card number="87" text="il eût dîné" />
+<card number="88" text="nous eussions dîné" />
+<card number="89" text="vous eussiez dîné" />
+<card number="90" text="ils eussent dîné" />
+<card number="91" text="dîne" />
+<card number="92" text="dînons" />
+<card number="93" text="dînez" />
+<card number="94" text="aie dîné" />
+<card number="95" text="ayons dîné" />
+<card number="96" text="ayez dîné" />
+<card number="97" text="dîner" />
+<card number="98" text="avoir dîné" />
+<card number="99" text="dînant" />
+<card number="100" text="dîné" />
+</deck>

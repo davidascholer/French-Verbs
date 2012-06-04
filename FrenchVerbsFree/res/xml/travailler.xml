@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je travaille" />
+<card number="2" text="tu travailles" />
+<card number="3" text="il travaille" />
+<card number="4" text="nous travaillons" />
+<card number="5" text="vous travaillez" />
+<card number="6" text="ils travaillent" />
+<card number="7" text="je travaillai" />
+<card number="8" text="tu travaillas" />
+<card number="9" text="il travailla" />
+<card number="10" text="nous travaillâmes" />
+<card number="11" text="vous travaillâtes" />
+<card number="12" text="ils travaillèrent" />
+<card number="13" text="j'ai travaillé" />
+<card number="14" text="tu as travaillé" />
+<card number="15" text="il a travaillé" />
+<card number="16" text="nous avons travaillé" />
+<card number="17" text="vous avez travaillé" />
+<card number="18" text="ils ont travaillé" />
+<card number="19" text="j'eus travaillé" />
+<card number="20" text="tu eus travaillé" />
+<card number="21" text="il eut travaillé" />
+<card number="22" text="nous eûmes travaillé" />
+<card number="23" text="vous eûtes travaillé" />
+<card number="24" text="ils eurent travaillé" />
+<card number="25" text="je travaillais" />
+<card number="26" text="tu travaillais" />
+<card number="27" text="il travaillait" />
+<card number="28" text="nous travaillions" />
+<card number="29" text="vous travailliez" />
+<card number="30" text="ils travaillaient" />
+<card number="31" text="je travaillerai" />
+<card number="32" text="tu travailleras" />
+<card number="33" text="il travaillera" />
+<card number="34" text="nous travaillerons" />
+<card number="35" text="vous travaillerez" />
+<card number="36" text="ils travailleront" />
+<card number="37" text="j'avais travaillé" />
+<card number="38" text="tu avais travaillé" />
+<card number="39" text="il avait travaillé" />
+<card number="40" text="nous avions travaillé" />
+<card number="41" text="vous aviez travaillé" />
+<card number="42" text="ils avaient travaillé" />
+<card number="43" text="j'aurai travaillé" />
+<card number="44" text="tu auras travaillé" />
+<card number="45" text="il aura travaillé" />
+<card number="46" text="nous aurons travaillé" />
+<card number="47" text="vous aurez travaillé" />
+<card number="48" text="ils auront travaillé" />
+<card number="49" text="que je travaille" />
+<card number="50" text="que tu travailles" />
+<card number="51" text="qu'il travaille" />
+<card number="52" text="que nous travaillions" />
+<card number="53" text="que vous travailliez" />
+<card number="54" text="qu'ils travaillent" />
+<card number="55" text="que j'aie travaillé" />
+<card number="56" text="que tu aies travaillé" />
+<card number="57" text="qu'il ait travaillé" />
+<card number="58" text="que nous ayons travaillé" />
+<card number="59" text="que vous ayez travaillé" />
+<card number="60" text="qu'ils aient travaillé" />
+<card number="61" text="que je travaillasse" />
+<card number="62" text="que tu travaillasses" />
+<card number="63" text="qu'il travaillât" />
+<card number="64" text="que nous travaillassions" />
+<card number="65" text="que vous travaillassiez" />
+<card number="66" text="qu'ils travaillassent" />
+<card number="67" text="que j'eusse travaillé" />
+<card number="68" text="que tu eusses travaillé" />
+<card number="69" text="qu'il eût travaillé" />
+<card number="70" text="que nous eussions travaillé" />
+<card number="71" text="que vous eussiez travaillé" />
+<card number="72" text="qu'ils eussent travaillé" />
+<card number="73" text="je travaillerais" />
+<card number="74" text="tu travaillerais" />
+<card number="75" text="il travaillerait" />
+<card number="76" text="nous travaillerions" />
+<card number="77" text="vous travailleriez" />
+<card number="78" text="ils travailleraient" />
+<card number="79" text="j'aurais travaillé" />
+<card number="80" text="tu aurais travaillé" />
+<card number="81" text="il aurait travaillé" />
+<card number="82" text="nous aurions travaillé" />
+<card number="83" text="vous auriez travaillé" />
+<card number="84" text="ils auraient travaillé" />
+<card number="85" text="j'eusse travaillé" />
+<card number="86" text="tu eusses travaillé" />
+<card number="87" text="il eût travaillé" />
+<card number="88" text="nous eussions travaillé" />
+<card number="89" text="vous eussiez travaillé" />
+<card number="90" text="ils eussent travaillé" />
+<card number="91" text="travaille" />
+<card number="92" text="travaillons" />
+<card number="93" text="travaillez" />
+<card number="94" text="aie travaillé" />
+<card number="95" text="ayons travaillé" />
+<card number="96" text="ayez travaillé" />
+<card number="97" text="travailler" />
+<card number="98" text="avoir travaillé" />
+<card number="99" text="travaillant" />
+<card number="100" text="travaillé" />
+</deck>

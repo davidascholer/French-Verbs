@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je sèche" />
+<card number="2" text="tu sèches" />
+<card number="3" text="il sèche" />
+<card number="4" text="nous séchons" />
+<card number="5" text="vous séchez" />
+<card number="6" text="ils sèchent" />
+<card number="7" text="je séchai" />
+<card number="8" text="tu séchas" />
+<card number="9" text="il sécha" />
+<card number="10" text="nous séchâmes" />
+<card number="11" text="vous séchâtes" />
+<card number="12" text="ils séchèrent" />
+<card number="13" text="j'ai séché" />
+<card number="14" text="tu as séché" />
+<card number="15" text="il a séché" />
+<card number="16" text="nous avons séché" />
+<card number="17" text="vous avez séché" />
+<card number="18" text="ils ont séché" />
+<card number="19" text="j'eus séché" />
+<card number="20" text="tu eus séché" />
+<card number="21" text="il eut séché" />
+<card number="22" text="nous eûmes séché" />
+<card number="23" text="vous eûtes séché" />
+<card number="24" text="ils eurent séché" />
+<card number="25" text="je séchais" />
+<card number="26" text="tu séchais" />
+<card number="27" text="il séchait" />
+<card number="28" text="nous séchions" />
+<card number="29" text="vous séchiez" />
+<card number="30" text="ils séchaient" />
+<card number="31" text="je sécherai / ècherai" />
+<card number="32" text="tu sécheras / ècheras" />
+<card number="33" text="il séchera / èchera" />
+<card number="34" text="nous sécherons / ècherons" />
+<card number="35" text="vous sécherez / ècherez" />
+<card number="36" text="ils sécheront / ècheront" />
+<card number="37" text="j'avais séché" />
+<card number="38" text="tu avais séché" />
+<card number="39" text="il avait séché" />
+<card number="40" text="nous avions séché" />
+<card number="41" text="vous aviez séché" />
+<card number="42" text="ils avaient séché" />
+<card number="43" text="j'aurai séché" />
+<card number="44" text="tu auras séché" />
+<card number="45" text="il aura séché" />
+<card number="46" text="nous aurons séché" />
+<card number="47" text="vous aurez séché" />
+<card number="48" text="ils auront séché" />
+<card number="49" text="que je sèche" />
+<card number="50" text="que tu sèches" />
+<card number="51" text="qu'il sèche" />
+<card number="52" text="que nous séchions" />
+<card number="53" text="que vous séchiez" />
+<card number="54" text="qu'ils sèchent" />
+<card number="55" text="que j'aie séché" />
+<card number="56" text="que tu aies séché" />
+<card number="57" text="qu'il ait séché" />
+<card number="58" text="que nous ayons séché" />
+<card number="59" text="que vous ayez séché" />
+<card number="60" text="qu'ils aient séché" />
+<card number="61" text="que je séchasse" />
+<card number="62" text="que tu séchasses" />
+<card number="63" text="qu'il séchât" />
+<card number="64" text="que nous séchassions" />
+<card number="65" text="que vous séchassiez" />
+<card number="66" text="qu'ils séchassent" />
+<card number="67" text="que j'eusse séché" />
+<card number="68" text="que tu eusses séché" />
+<card number="69" text="qu'il eût séché" />
+<card number="70" text="que nous eussions séché" />
+<card number="71" text="que vous eussiez séché" />
+<card number="72" text="qu'ils eussent séché" />
+<card number="73" text="je sécherais / ècherais" />
+<card number="74" text="tu sécherais / ècherais" />
+<card number="75" text="il sécherait / ècherait" />
+<card number="76" text="nous sécherions / ècherions" />
+<card number="77" text="vous sécheriez / ècheriez" />
+<card number="78" text="ils sécheraient / ècheraient" />
+<card number="79" text="j'aurais séché" />
+<card number="80" text="tu aurais séché" />
+<card number="81" text="il aurait séché" />
+<card number="82" text="nous aurions séché" />
+<card number="83" text="vous auriez séché" />
+<card number="84" text="ils auraient séché" />
+<card number="85" text="j'eusse séché" />
+<card number="86" text="tu eusses séché" />
+<card number="87" text="il eût séché" />
+<card number="88" text="nous eussions séché" />
+<card number="89" text="vous eussiez séché" />
+<card number="90" text="ils eussent séché" />
+<card number="91" text="sèche" />
+<card number="92" text="séchons" />
+<card number="93" text="séchez" />
+<card number="94" text="aie séché" />
+<card number="95" text="ayons séché" />
+<card number="96" text="ayez séché" />
+<card number="97" text="sécher" />
+<card number="98" text="avoir séché" />
+<card number="99" text="séchant" />
+<card number="100" text="séché" />
+</deck>

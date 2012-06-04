@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je vois" />
+<card number="2" text="tu vois" />
+<card number="3" text="il voit" />
+<card number="4" text="nous voyons" />
+<card number="5" text="vous voyez" />
+<card number="6" text="ils voient" />
+<card number="7" text="je vis" />
+<card number="8" text="tu vis" />
+<card number="9" text="il vit" />
+<card number="10" text="nous vîmes" />
+<card number="11" text="vous vîtes" />
+<card number="12" text="ils virent" />
+<card number="13" text="j'ai vu" />
+<card number="14" text="tu as vu" />
+<card number="15" text="il a vu" />
+<card number="16" text="nous avons vu" />
+<card number="17" text="vous avez vu" />
+<card number="18" text="ils ont vu" />
+<card number="19" text="j'eus vu" />
+<card number="20" text="tu eus vu" />
+<card number="21" text="il eut vu" />
+<card number="22" text="nous eûmes vu" />
+<card number="23" text="vous eûtes vu" />
+<card number="24" text="ils eurent vu" />
+<card number="25" text="je voyais" />
+<card number="26" text="tu voyais" />
+<card number="27" text="il voyait" />
+<card number="28" text="nous voyions" />
+<card number="29" text="vous voyiez" />
+<card number="30" text="ils voyaient" />
+<card number="31" text="je verrai" />
+<card number="32" text="tu verras" />
+<card number="33" text="il verra" />
+<card number="34" text="nous verrons" />
+<card number="35" text="vous verrez" />
+<card number="36" text="ils verront" />
+<card number="37" text="j'avais vu" />
+<card number="38" text="tu avais vu" />
+<card number="39" text="il avait vu" />
+<card number="40" text="nous avions vu" />
+<card number="41" text="vous aviez vu" />
+<card number="42" text="ils avaient vu" />
+<card number="43" text="j'aurai vu" />
+<card number="44" text="tu auras vu" />
+<card number="45" text="il aura vu" />
+<card number="46" text="nous aurons vu" />
+<card number="47" text="vous aurez vu" />
+<card number="48" text="ils auront vu" />
+<card number="49" text="que je voie" />
+<card number="50" text="que tu voies" />
+<card number="51" text="qu'il voie" />
+<card number="52" text="que nous voyions" />
+<card number="53" text="que vous voyiez" />
+<card number="54" text="qu'ils voient" />
+<card number="55" text="que j'aie vu" />
+<card number="56" text="que tu aies vu" />
+<card number="57" text="qu'il ait vu" />
+<card number="58" text="que nous ayons vu" />
+<card number="59" text="que vous ayez vu" />
+<card number="60" text="qu'ils aient vu" />
+<card number="61" text="que je visse" />
+<card number="62" text="que tu visses" />
+<card number="63" text="qu'il vît" />
+<card number="64" text="que nous vissions" />
+<card number="65" text="que vous vissiez" />
+<card number="66" text="qu'ils vissent" />
+<card number="67" text="que j'eusse vu" />
+<card number="68" text="que tu eusses vu" />
+<card number="69" text="qu'il eût vu" />
+<card number="70" text="que nous eussions vu" />
+<card number="71" text="que vous eussiez vu" />
+<card number="72" text="qu'ils eussent vu" />
+<card number="73" text="je verrais" />
+<card number="74" text="tu verrais" />
+<card number="75" text="il verrait" />
+<card number="76" text="nous verrions" />
+<card number="77" text="vous verriez" />
+<card number="78" text="ils verraient" />
+<card number="79" text="j'aurais vu" />
+<card number="80" text="tu aurais vu" />
+<card number="81" text="il aurait vu" />
+<card number="82" text="nous aurions vu" />
+<card number="83" text="vous auriez vu" />
+<card number="84" text="ils auraient vu" />
+<card number="85" text="j'eusse vu" />
+<card number="86" text="tu eusses vu" />
+<card number="87" text="il eût vu" />
+<card number="88" text="nous eussions vu" />
+<card number="89" text="vous eussiez vu" />
+<card number="90" text="ils eussent vu" />
+<card number="91" text="vois" />
+<card number="92" text="voyons" />
+<card number="93" text="voyez" />
+<card number="94" text="aie vu" />
+<card number="95" text="ayons vu" />
+<card number="96" text="ayez vu" />
+<card number="97" text="voir" />
+<card number="98" text="avoir vu" />
+<card number="99" text="voyant" />
+<card number="100" text="vu" />
+</deck>

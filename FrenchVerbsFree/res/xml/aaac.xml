@@ -1,0 +1,112 @@
+<deck>
+<card number="2" text="accepter" />
+<card number="1" text="to accept" />
+<card number="4" text="acheter" />
+<card number="3" text="to buy" />
+<card number="6" text= "admettre" />
+<card number="5" text="to admit" />
+<card number="8" text="administrer" />
+<card number="7" text="to adminster" />
+<card number="10" text= "admirer" />
+<card number="9" text="to admire" />
+<card number="12" text="adorer" />
+<card number="11" text="to adore" />
+<card number="14" text= "agir" />
+<card number="13" text="to act" />
+<card number="16" text= "aider" />
+<card number="15" text="to help" />
+<card number="18" text="aimer" />
+<card number="17" text="to like, love" />
+<card number="20" text= "aller" />
+<card number="19" text="to go" />
+<card number="22" text= "allumer" />
+<card number="21" text="to light" />
+<card number="24" text="amuser" />
+<card number="23" text="to amuse" />
+<card number="26" text= "analyser" />
+<card number="25" text="to analyze" />
+<card number="28" text="apercevoir" />
+<card number="27" text="to see" />
+<card number="30" text= "appeler" />
+<card number="29" text="to call" />
+<card number="32" text= "apporter" />
+<card number="31" text="to bring" />
+<card number="34" text="apprendre" />
+<card number="33" text="to learn" />
+<card number="36" text= "arranger" />
+<card number="35" text="to arrange" />
+<card number="38" text="arrêter" />
+<card number="37" text="to stop, arrest" />
+<card number="40" text= "arriver" />
+<card number="39" text="to arrive" />
+<card number="42" text="asseoir" />
+<card number="41" text="to sit down" />
+<card number="44" text= "assister" />
+<card number="43" text="to attend" />
+<card number="46" text="attarder" />
+<card number="45" text="to make late" />
+<card number="48" text= "atteindre" />
+<card number="47" text="to attain" />
+<card number="50" text="attendre" />
+<card number="49" text="to wait for" />
+<card number="52" text= "avoir" />
+<card number="51" text="to have" />
+<card number="54" text= "avorter" />
+<card number="53" text="to abort" />
+<card number="56" text="battre" />
+<card number="55" text="to beat" />
+<card number="58" text= "bavarder" />
+<card number="57" text="to chat" />
+<card number="60" text= "boire" />
+<card number="59" text="to drink" />
+<card number="62" text="cacher" />
+<card number="61" text="to hide" />
+<card number="64" text= "calculer" />
+<card number="63" text="to calculate" />
+<card number="66" text= "casser" />
+<card number="65" text="to break" />
+<card number="68" text="causer" />
+<card number="67" text="to chat, cause" />
+<card number="70" text= "célébrer" />
+<card number="69" text="to celebrate" />
+<card number="72" text="changer" />
+<card number="71" text="to change" />
+<card number="74" text= "chanter" />
+<card number="73" text="to sing" />
+<card number="76" text="chercher" />
+<card number="75" text="to look for" />
+<card number="78" text= "commander" />
+<card number="77" text="to order" />
+<card number="80" text="commencer" />
+<card number="79" text="to begin" />
+<card number="82" text= "comprendre" />
+<card number="81" text="to understand" />
+<card number="84" text="compter" />
+<card number="83" text="to count, intend" />
+<card number="86" text= "conclure" />
+<card number="85" text="to conclude" />
+<card number="88" text="conduire" />
+<card number="87" text="to drive" />
+<card number="90" text= "connaître" />
+<card number="89" text="to know" />
+<card number="92" text="consulter" />
+<card number="91" text="to consult" />
+<card number="94" text= "contenir" />
+<card number="93" text="to contain" />
+<card number="96" text="continuer" />
+<card number="95" text="to continue" />
+<card number="98" text= "contribuer" />
+<card number="97" text="to contribute" />
+<card number="100" text="convenir" />
+<card number="99" text="to convene" />
+<card number="102" text= "courir" />
+<card number="101" text="to run" />
+<card number="104" text= "coûter" />
+<card number="103" text="to cost" />
+<card number="106" text="craindre" />
+<card number="105" text="to fear" />
+<card number="108" text= "créer" />
+<card number="107" text="to create" />
+<card number="110" text= "croire" />
+<card number="109" text="to believe" />
+</deck>

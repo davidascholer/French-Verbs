@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je vais" />
+<card number="2" text="tu vas" />
+<card number="3" text="il va" />
+<card number="4" text="nous allons" />
+<card number="5" text="vous allez" />
+<card number="6" text="ils vont" />
+<card number="7" text="j'allai" />
+<card number="8" text="tu allas" />
+<card number="9" text="il alla" />
+<card number="10" text="nous allâmes" />
+<card number="11" text="vous allâtes" />
+<card number="12" text="ils allèrent" />
+<card number="13" text="je suis allé" />
+<card number="14" text="tu es allé" />
+<card number="15" text="il est allé" />
+<card number="16" text="nous sommes allés" />
+<card number="17" text="vous êtes allés" />
+<card number="18" text="ils sont allés" />
+<card number="19" text="je fus allé" />
+<card number="20" text="tu fus allé" />
+<card number="21" text="il fut allé" />
+<card number="22" text="nous fûmes allés" />
+<card number="23" text="vous fûtes allés" />
+<card number="24" text="ils furent allés" />
+<card number="25" text="j'allais" />
+<card number="26" text="tu allais" />
+<card number="27" text="il allait" />
+<card number="28" text="nous allions" />
+<card number="29" text="vous alliez" />
+<card number="30" text="ils allaient" />
+<card number="31" text="j'irai" />
+<card number="32" text="tu iras" />
+<card number="33" text="il ira" />
+<card number="34" text="nous irons" />
+<card number="35" text="vous irez" />
+<card number="36" text="ils iront" />
+<card number="37" text="j'étais allé" />
+<card number="38" text="tu étais allé" />
+<card number="39" text="il était allé" />
+<card number="40" text="nous étions allés" />
+<card number="41" text="vous étiez allés" />
+<card number="42" text="ils étaient allés" />
+<card number="43" text="je serai allé" />
+<card number="44" text="tu seras allé" />
+<card number="45" text="il sera allé" />
+<card number="46" text="nous serons allés" />
+<card number="47" text="vous serez allés" />
+<card number="48" text="ils seront allés" />
+<card number="49" text="que j'aille" />
+<card number="50" text="que tu ailles" />
+<card number="51" text="qu'il aille" />
+<card number="52" text="que nous allions" />
+<card number="53" text="que vous alliez" />
+<card number="54" text="qu'ils aillent" />
+<card number="55" text="que je sois allé" />
+<card number="56" text="que tu sois allé" />
+<card number="57" text="qu'il soit allé" />
+<card number="58" text="que nous soyons allés" />
+<card number="59" text="que vous soyez allés" />
+<card number="60" text="qu'ils soient allés" />
+<card number="61" text="que j'allasse" />
+<card number="62" text="que tu allasses" />
+<card number="63" text="qu'il allât" />
+<card number="64" text="que nous allassions" />
+<card number="65" text="que vous allassiez" />
+<card number="66" text="qu'ils allassent" />
+<card number="67" text="que je fusse allé" />
+<card number="68" text="que tu fusses allé" />
+<card number="69" text="qu'il fût allé" />
+<card number="70" text="que nous fussions allés" />
+<card number="71" text="que vous fussiez allés" />
+<card number="72" text="qu'ils fussent allés" />
+<card number="73" text="j'irais" />
+<card number="74" text="tu irais" />
+<card number="75" text="il irait" />
+<card number="76" text="nous irions" />
+<card number="77" text="vous iriez" />
+<card number="78" text="ils iraient" />
+<card number="79" text="je serais allé" />
+<card number="80" text="tu serais allé" />
+<card number="81" text="il serait allé" />
+<card number="82" text="nous serions allés" />
+<card number="83" text="vous seriez allés" />
+<card number="84" text="ils seraient allés" />
+<card number="85" text="je fusse allé" />
+<card number="86" text="tu fusses allé" />
+<card number="87" text="il fût allé" />
+<card number="88" text="nous fussions allés" />
+<card number="89" text="vous fussiez allés" />
+<card number="90" text="ils fussent allés" />
+<card number="91" text="va" />
+<card number="92" text="allons" />
+<card number="93" text="allez" />
+<card number="94" text="sois allé" />
+<card number="95" text="soyons allés" />
+<card number="96" text="soyez allés" />
+<card number="97" text="aller" />
+<card number="98" text="être allé" />
+<card number="99" text="allant" />
+<card number="100" text="allé" />
+</deck>

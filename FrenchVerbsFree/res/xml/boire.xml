@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je bois" />
+<card number="2" text="tu bois" />
+<card number="3" text="il boit" />
+<card number="4" text="nous buvons" />
+<card number="5" text="vous buvez" />
+<card number="6" text="ils boivent" />
+<card number="7" text="je bus" />
+<card number="8" text="tu bus" />
+<card number="9" text="il but" />
+<card number="10" text="nous bûmes" />
+<card number="11" text="vous bûtes" />
+<card number="12" text="ils burent" />
+<card number="13" text="j'ai bu" />
+<card number="14" text="tu as bu" />
+<card number="15" text="il a bu" />
+<card number="16" text="nous avons bu" />
+<card number="17" text="vous avez bu" />
+<card number="18" text="ils ont bu" />
+<card number="19" text="j'eus bu" />
+<card number="20" text="tu eus bu" />
+<card number="21" text="il eut bu" />
+<card number="22" text="nous eûmes bu" />
+<card number="23" text="vous eûtes bu" />
+<card number="24" text="ils eurent bu" />
+<card number="25" text="je buvais" />
+<card number="26" text="tu buvais" />
+<card number="27" text="il buvait" />
+<card number="28" text="nous buvions" />
+<card number="29" text="vous buviez" />
+<card number="30" text="ils buvaient" />
+<card number="31" text="je boirai" />
+<card number="32" text="tu boiras" />
+<card number="33" text="il boira" />
+<card number="34" text="nous boirons" />
+<card number="35" text="vous boirez" />
+<card number="36" text="ils boiront" />
+<card number="37" text="j'avais bu" />
+<card number="38" text="tu avais bu" />
+<card number="39" text="il avait bu" />
+<card number="40" text="nous avions bu" />
+<card number="41" text="vous aviez bu" />
+<card number="42" text="ils avaient bu" />
+<card number="43" text="j'aurai bu" />
+<card number="44" text="tu auras bu" />
+<card number="45" text="il aura bu" />
+<card number="46" text="nous aurons bu" />
+<card number="47" text="vous aurez bu" />
+<card number="48" text="ils auront bu" />
+<card number="49" text="que je boive" />
+<card number="50" text="que tu boives" />
+<card number="51" text="qu'il boive" />
+<card number="52" text="que nous buvions" />
+<card number="53" text="que vous buviez" />
+<card number="54" text="qu'ils boivent" />
+<card number="55" text="que j'aie bu" />
+<card number="56" text="que tu aies bu" />
+<card number="57" text="qu'il ait bu" />
+<card number="58" text="que nous ayons bu" />
+<card number="59" text="que vous ayez bu" />
+<card number="60" text="qu'ils aient bu" />
+<card number="61" text="que je busse" />
+<card number="62" text="que tu busses" />
+<card number="63" text="qu'il bût" />
+<card number="64" text="que nous bussions" />
+<card number="65" text="que vous bussiez" />
+<card number="66" text="qu'ils bussent" />
+<card number="67" text="que j'eusse bu" />
+<card number="68" text="que tu eusses bu" />
+<card number="69" text="qu'il eût bu" />
+<card number="70" text="que nous eussions bu" />
+<card number="71" text="que vous eussiez bu" />
+<card number="72" text="qu'ils eussent bu" />
+<card number="73" text="je boirais" />
+<card number="74" text="tu boirais" />
+<card number="75" text="il boirait" />
+<card number="76" text="nous boirions" />
+<card number="77" text="vous boiriez" />
+<card number="78" text="ils boiraient" />
+<card number="79" text="j'aurais bu" />
+<card number="80" text="tu aurais bu" />
+<card number="81" text="il aurait bu" />
+<card number="82" text="nous aurions bu" />
+<card number="83" text="vous auriez bu" />
+<card number="84" text="ils auraient bu" />
+<card number="85" text="j'eusse bu" />
+<card number="86" text="tu eusses bu" />
+<card number="87" text="il eût bu" />
+<card number="88" text="nous eussions bu" />
+<card number="89" text="vous eussiez bu" />
+<card number="90" text="ils eussent bu" />
+<card number="91" text="bois" />
+<card number="92" text="buvons" />
+<card number="93" text="buvez" />
+<card number="94" text="aie bu" />
+<card number="95" text="ayons bu" />
+<card number="96" text="ayez bu" />
+<card number="97" text="boire" />
+<card number="98" text="avoir bu" />
+<card number="99" text="buvant" />
+<card number="100" text="bu" />
+</deck>

@@ -1,0 +1,96 @@
+<deck>
+<card number="2" text= "recevoir" />
+<card number="1" text="to receive" />
+<card number="4" text="réfléchir" />
+<card number="3" text="to think" />
+<card number="6" text= "refuser" />
+<card number="5" text="to refuse" />
+<card number="8" text="regarder" />
+<card number="7" text="to look at, watch" />
+<card number="10" text= "rejoindre" />
+<card number="9" text="to meet, rejoin" />
+<card number="12" text="remercier" />
+<card number="11" text="to thank" />
+<card number="14" text= "remettre" />
+<card number="13" text="to put back (on)" />
+<card number="16" text="remplir" />
+<card number="15" text="to fill" />
+<card number="18" text= "remporter" />
+<card number="17" text="to take again/back" />
+<card number="20" text="rendre" />
+<card number="19" text="to give back" />
+<card number="22" text= "rentrer" />
+<card number="21" text="to return home" />
+<card number="24" text="renvoyer" />
+<card number="23" text="to dismiss" />
+<card number="26" text= "réparer" />
+<card number="25" text="to repair" />
+<card number="28" text="répondre" />
+<card number="27" text="to answer" />
+<card number="30" text= "reprendre" />
+<card number="29" text="to take again, to recover" />
+<card number="32" text="résoudre" />
+<card number="31" text="to resolve" />
+<card number="34" text= "rester" />
+<card number="33" text="to stay" />
+<card number="36" text="retourner" />
+<card number="35" text="to return" />
+<card number="38" text= "réveiller" />
+<card number="37" text="to wake up" />
+<card number="40" text="revenir" />
+<card number="39" text="to come back" />
+<card number="42" text= "rêver" />
+<card number="41" text="to dream" />
+<card number="44" text= "saisir" />
+<card number="43" text="to seize" />
+<card number="46" text="savoir" />
+<card number="45" text="to know" />
+<card number="48" text= "sécher" />
+<card number="47" text="to dry" />
+<card number="50" text= "signer" />
+<card number="49" text="to sign" />
+<card number="52" text="sortir" />
+<card number="51" text="to go out" />
+<card number="54" text= "souhaiter" />
+<card number="53" text="to wish" />
+<card number="56" text= "suivre" />
+<card number="55" text="to follow" />
+<card number="58" text="taire (se)" />
+<card number="57" text="to be quiet" />
+<card number="60" text= "tenir" />
+<card number="59" text="to hold" />
+<card number="62" text= "terminer" />
+<card number="61" text="to end" />
+<card number="64" text="tester" />
+<card number="63" text="to test" />
+<card number="66" text= "tomber" />
+<card number="65" text="to fall" />
+<card number="68" text= "tousser" />
+<card number="67" text="to cough" />
+<card number="70" text="traduire" />
+<card number="69" text="to translate" />
+<card number="72" text= "transmettre" />
+<card number="71" text="to transmit" />
+<card number="74" text="travailler" />
+<card number="73" text="to work" />
+<card number="76" text= "trouver" />
+<card number="75" text="to find" />
+<card number="78" text= "utiliser" />
+<card number="77" text="to use" />
+<card number="80" text="vendre" />
+<card number="79" text="to sell" />
+<card number="82" text= "venir" />
+<card number="81" text="to come" />
+<card number="84" text= "visiter" />
+<card number="83" text="to visit" />
+<card number="86" text="vivre" />
+<card number="85" text="to live" />
+<card number="88" text= "voir" />
+<card number="87" text="to see" />
+<card number="90" text= "voler" />
+<card number="89" text="to steal, fly" />
+<card number="92" text="vouloir" />
+<card number="91" text="to want" />
+<card number="94" text= "voyager" />
+<card number="93" text="to travel" />
+</deck>

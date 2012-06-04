@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je lis" />
+<card number="2" text="tu lis" />
+<card number="3" text="il lit" />
+<card number="4" text="nous lisons" />
+<card number="5" text="vous lisez" />
+<card number="6" text="ils lisent" />
+<card number="7" text="je lus" />
+<card number="8" text="tu lus" />
+<card number="9" text="il lut" />
+<card number="10" text="nous lûmes" />
+<card number="11" text="vous lûtes" />
+<card number="12" text="ils lurent" />
+<card number="13" text="j'ai lu" />
+<card number="14" text="tu as lu" />
+<card number="15" text="il a lu" />
+<card number="16" text="nous avons lu" />
+<card number="17" text="vous avez lu" />
+<card number="18" text="ils ont lu" />
+<card number="19" text="j'eus lu" />
+<card number="20" text="tu eus lu" />
+<card number="21" text="il eut lu" />
+<card number="22" text="nous eûmes lu" />
+<card number="23" text="vous eûtes lu" />
+<card number="24" text="ils eurent lu" />
+<card number="25" text="je lisais" />
+<card number="26" text="tu lisais" />
+<card number="27" text="il lisait" />
+<card number="28" text="nous lisions" />
+<card number="29" text="vous lisiez" />
+<card number="30" text="ils lisaient" />
+<card number="31" text="je lirai" />
+<card number="32" text="tu liras" />
+<card number="33" text="il lira" />
+<card number="34" text="nous lirons" />
+<card number="35" text="vous lirez" />
+<card number="36" text="ils liront" />
+<card number="37" text="j'avais lu" />
+<card number="38" text="tu avais lu" />
+<card number="39" text="il avait lu" />
+<card number="40" text="nous avions lu" />
+<card number="41" text="vous aviez lu" />
+<card number="42" text="ils avaient lu" />
+<card number="43" text="j'aurai lu" />
+<card number="44" text="tu auras lu" />
+<card number="45" text="il aura lu" />
+<card number="46" text="nous aurons lu" />
+<card number="47" text="vous aurez lu" />
+<card number="48" text="ils auront lu" />
+<card number="49" text="que je lise" />
+<card number="50" text="que tu lises" />
+<card number="51" text="qu'il lise" />
+<card number="52" text="que nous lisions" />
+<card number="53" text="que vous lisiez" />
+<card number="54" text="qu'ils lisent" />
+<card number="55" text="que j'aie lu" />
+<card number="56" text="que tu aies lu" />
+<card number="57" text="qu'il ait lu" />
+<card number="58" text="que nous ayons lu" />
+<card number="59" text="que vous ayez lu" />
+<card number="60" text="qu'ils aient lu" />
+<card number="61" text="que je lusse" />
+<card number="62" text="que tu lusses" />
+<card number="63" text="qu'il lût" />
+<card number="64" text="que nous lussions" />
+<card number="65" text="que vous lussiez" />
+<card number="66" text="qu'ils lussent" />
+<card number="67" text="que j'eusse lu" />
+<card number="68" text="que tu eusses lu" />
+<card number="69" text="qu'il eût lu" />
+<card number="70" text="que nous eussions lu" />
+<card number="71" text="que vous eussiez lu" />
+<card number="72" text="qu'ils eussent lu" />
+<card number="73" text="je lirais" />
+<card number="74" text="tu lirais" />
+<card number="75" text="il lirait" />
+<card number="76" text="nous lirions" />
+<card number="77" text="vous liriez" />
+<card number="78" text="ils liraient" />
+<card number="79" text="j'aurais lu" />
+<card number="80" text="tu aurais lu" />
+<card number="81" text="il aurait lu" />
+<card number="82" text="nous aurions lu" />
+<card number="83" text="vous auriez lu" />
+<card number="84" text="ils auraient lu" />
+<card number="85" text="j'eusse lu" />
+<card number="86" text="tu eusses lu" />
+<card number="87" text="il eût lu" />
+<card number="88" text="nous eussions lu" />
+<card number="89" text="vous eussiez lu" />
+<card number="90" text="ils eussent lu" />
+<card number="91" text="lis" />
+<card number="92" text="lisons" />
+<card number="93" text="lisez" />
+<card number="94" text="aie lu" />
+<card number="95" text="ayons lu" />
+<card number="96" text="ayez lu" />
+<card number="97" text="lire" />
+<card number="98" text="avoir lu" />
+<card number="99" text="lisant" />
+<card number="100" text="lu" />
+</deck>

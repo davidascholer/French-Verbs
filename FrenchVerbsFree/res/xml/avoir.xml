@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="j'ai" />
+<card number="2" text="tu as" />
+<card number="3" text="il a" />
+<card number="4" text="nous avons" />
+<card number="5" text="vous avez" />
+<card number="6" text="ils ont" />
+<card number="7" text="j'eus" />
+<card number="8" text="tu eus" />
+<card number="9" text="il eut" />
+<card number="10" text="nous eûmes" />
+<card number="11" text="vous eûtes" />
+<card number="12" text="ils eurent" />
+<card number="13" text="j'ai eu" />
+<card number="14" text="tu as eu" />
+<card number="15" text="il a eu" />
+<card number="16" text="nous avons eu" />
+<card number="17" text="vous avez eu" />
+<card number="18" text="ils ont eu" />
+<card number="19" text="j'eus eu" />
+<card number="20" text="tu eus eu" />
+<card number="21" text="il eut eu" />
+<card number="22" text="nous eûmes eu" />
+<card number="23" text="vous eûtes eu" />
+<card number="24" text="ils eurent eu" />
+<card number="25" text="j'avais" />
+<card number="26" text="tu avais" />
+<card number="27" text="il avait" />
+<card number="28" text="nous avions" />
+<card number="29" text="vous aviez" />
+<card number="30" text="ils avaient" />
+<card number="31" text="j'aurai" />
+<card number="32" text="tu auras" />
+<card number="33" text="il aura" />
+<card number="34" text="nous aurons" />
+<card number="35" text="vous aurez" />
+<card number="36" text="ils auront" />
+<card number="37" text="j'avais eu" />
+<card number="38" text="tu avais eu" />
+<card number="39" text="il avait eu" />
+<card number="40" text="nous avions eu" />
+<card number="41" text="vous aviez eu" />
+<card number="42" text="ils avaient eu" />
+<card number="43" text="j'aurai eu" />
+<card number="44" text="tu auras eu" />
+<card number="45" text="il aura eu" />
+<card number="46" text="nous aurons eu" />
+<card number="47" text="vous aurez eu" />
+<card number="48" text="ils auront eu" />
+<card number="49" text="que j'aie" />
+<card number="50" text="que tu aies" />
+<card number="51" text="qu'il ait" />
+<card number="52" text="que nous ayons" />
+<card number="53" text="que vous ayez" />
+<card number="54" text="qu'ils aient" />
+<card number="55" text="que j'aie eu" />
+<card number="56" text="que tu aies eu" />
+<card number="57" text="qu'il ait eu" />
+<card number="58" text="que nous ayons eu" />
+<card number="59" text="que vous ayez eu" />
+<card number="60" text="qu'ils aient eu" />
+<card number="61" text="que j'eusse" />
+<card number="62" text="que tu eusses" />
+<card number="63" text="qu'il eût" />
+<card number="64" text="que nous eussions" />
+<card number="65" text="que vous eussiez" />
+<card number="66" text="qu'ils eussent" />
+<card number="67" text="que j'eusse eu" />
+<card number="68" text="que tu eusses eu" />
+<card number="69" text="qu'il eût eu" />
+<card number="70" text="que nous eussions eu" />
+<card number="71" text="que vous eussiez eu" />
+<card number="72" text="qu'ils eussent eu" />
+<card number="73" text="j'aurais" />
+<card number="74" text="tu aurais" />
+<card number="75" text="il aurait" />
+<card number="76" text="nous aurions" />
+<card number="77" text="vous auriez" />
+<card number="78" text="ils auraient" />
+<card number="79" text="j'aurais eu" />
+<card number="80" text="tu aurais eu" />
+<card number="81" text="il aurait eu" />
+<card number="82" text="nous aurions eu" />
+<card number="83" text="vous auriez eu" />
+<card number="84" text="ils auraient eu" />
+<card number="85" text="j'eusse eu" />
+<card number="86" text="tu eusses eu" />
+<card number="87" text="il eût eu" />
+<card number="88" text="nous eussions eu" />
+<card number="89" text="vous eussiez eu" />
+<card number="90" text="ils eussent eu" />
+<card number="91" text="aie" />
+<card number="92" text="ayons" />
+<card number="93" text="ayez" />
+<card number="94" text="aie eu" />
+<card number="95" text="ayons eu" />
+<card number="96" text="ayez eu" />
+<card number="97" text="avoir" />
+<card number="98" text="avoir eu" />
+<card number="99" text="ayant" />
+<card number="100" text="eu" />
+</deck>

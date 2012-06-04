@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+	android:layout_width="fill_parent" android:orientation="vertical"
+	android:layout_height="wrap_content" android:id="@+id/ButtonLinearLayout">
+	<RelativeLayout android:layout_height="wrap_content" 
+		android:layout_width="fill_parent" android:id="@+id/relLayout">
+		<RelativeLayout android:layout_centerInParent="true" android:layout_width="fill_parent"
+			android:id="@+id/buttonLayout" android:layout_height="fill_parent" android:padding="5dp">
+			<Button android:layout_centerInParent="true"
+				android:id="@+id/englishFlashCardButton"
+				android:background="@color/blue" android:textStyle="bold"
+				android:textColor="@color/white" android:textSize="35sp"
+				android:visibility="visible" android:layout_height="fill_parent" android:layout_width="fill_parent"></Button>
+			<Button android:layout_centerInParent="true"
+				android:id="@+id/frenchFlashCardButton" android:background="@color/white"
+				android:textSize="35sp" android:textStyle="bold" android:textColor="@color/blue"
+				android:visibility="invisible" android:layout_height="fill_parent" android:layout_width="fill_parent"></Button>
+		</RelativeLayout>
+		<ImageButton android:id="@+id/flipImagebutton"
+			android:text="Pronounce" android:typeface="serif"
+			android:layout_width="wrap_content" android:src="@android:drawable/ic_btn_speak_now" android:scaleType="fitXY"
+			android:background="@android:color/transparent"
+			android:layout_centerHorizontal="true"  android:paddingBottom="1dp" android:layout_height="wrap_content" android:layout_above="@+id/adView"></ImageButton>
+	<com.google.ads.AdView android:id="@+id/adView" android:layout_alignParentBottom="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+	ads:adUnitId="a14ec7625381004"
+	ads:adSize="BANNER"
+	ads:loadAdOnCreate="true"/>
+	</RelativeLayout>
+</LinearLayout> 

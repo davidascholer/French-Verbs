@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="j'apporte" />
+<card number="2" text="tu apportes" />
+<card number="3" text="il apporte" />
+<card number="4" text="nous apportons" />
+<card number="5" text="vous apportez" />
+<card number="6" text="ils apportent" />
+<card number="7" text="j'apportai" />
+<card number="8" text="tu apportas" />
+<card number="9" text="il apporta" />
+<card number="10" text="nous apportâmes" />
+<card number="11" text="vous apportâtes" />
+<card number="12" text="ils apportèrent" />
+<card number="13" text="j'ai apporté" />
+<card number="14" text="tu as apporté" />
+<card number="15" text="il a apporté" />
+<card number="16" text="nous avons apporté" />
+<card number="17" text="vous avez apporté" />
+<card number="18" text="ils ont apporté" />
+<card number="19" text="j'eus apporté" />
+<card number="20" text="tu eus apporté" />
+<card number="21" text="il eut apporté" />
+<card number="22" text="nous eûmes apporté" />
+<card number="23" text="vous eûtes apporté" />
+<card number="24" text="ils eurent apporté" />
+<card number="25" text="j'apportais" />
+<card number="26" text="tu apportais" />
+<card number="27" text="il apportait" />
+<card number="28" text="nous apportions" />
+<card number="29" text="vous apportiez" />
+<card number="30" text="ils apportaient" />
+<card number="31" text="j'apporterai" />
+<card number="32" text="tu apporteras" />
+<card number="33" text="il apportera" />
+<card number="34" text="nous apporterons" />
+<card number="35" text="vous apporterez" />
+<card number="36" text="ils apporteront" />
+<card number="37" text="j'avais apporté" />
+<card number="38" text="tu avais apporté" />
+<card number="39" text="il avait apporté" />
+<card number="40" text="nous avions apporté" />
+<card number="41" text="vous aviez apporté" />
+<card number="42" text="ils avaient apporté" />
+<card number="43" text="j'aurai apporté" />
+<card number="44" text="tu auras apporté" />
+<card number="45" text="il aura apporté" />
+<card number="46" text="nous aurons apporté" />
+<card number="47" text="vous aurez apporté" />
+<card number="48" text="ils auront apporté" />
+<card number="49" text="que j'apporte" />
+<card number="50" text="que tu apportes" />
+<card number="51" text="qu'il apporte" />
+<card number="52" text="que nous apportions" />
+<card number="53" text="que vous apportiez" />
+<card number="54" text="qu'ils apportent" />
+<card number="55" text="que j'aie apporté" />
+<card number="56" text="que tu aies apporté" />
+<card number="57" text="qu'il ait apporté" />
+<card number="58" text="que nous ayons apporté" />
+<card number="59" text="que vous ayez apporté" />
+<card number="60" text="qu'ils aient apporté" />
+<card number="61" text="que j'apportasse" />
+<card number="62" text="que tu apportasses" />
+<card number="63" text="qu'il apportât" />
+<card number="64" text="que nous apportassions" />
+<card number="65" text="que vous apportassiez" />
+<card number="66" text="qu'ils apportassent" />
+<card number="67" text="que j'eusse apporté" />
+<card number="68" text="que tu eusses apporté" />
+<card number="69" text="qu'il eût apporté" />
+<card number="70" text="que nous eussions apporté" />
+<card number="71" text="que vous eussiez apporté" />
+<card number="72" text="qu'ils eussent apporté" />
+<card number="73" text="j'apporterais" />
+<card number="74" text="tu apporterais" />
+<card number="75" text="il apporterait" />
+<card number="76" text="nous apporterions" />
+<card number="77" text="vous apporteriez" />
+<card number="78" text="ils apporteraient" />
+<card number="79" text="j'aurais apporté" />
+<card number="80" text="tu aurais apporté" />
+<card number="81" text="il aurait apporté" />
+<card number="82" text="nous aurions apporté" />
+<card number="83" text="vous auriez apporté" />
+<card number="84" text="ils auraient apporté" />
+<card number="85" text="j'eusse apporté" />
+<card number="86" text="tu eusses apporté" />
+<card number="87" text="il eût apporté" />
+<card number="88" text="nous eussions apporté" />
+<card number="89" text="vous eussiez apporté" />
+<card number="90" text="ils eussent apporté" />
+<card number="91" text="apporte" />
+<card number="92" text="apportons" />
+<card number="93" text="apportez" />
+<card number="94" text="aie apporté" />
+<card number="95" text="ayons apporté" />
+<card number="96" text="ayez apporté" />
+<card number="97" text="apporter" />
+<card number="98" text="avoir apporté" />
+<card number="99" text="apportant" />
+<card number="100" text="apporté" />
+</deck>

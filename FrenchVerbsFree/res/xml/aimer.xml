@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="j'aime" />
+<card number="2" text="tu aimes" />
+<card number="3" text="il aime" />
+<card number="4" text="nous aimons" />
+<card number="5" text="vous aimez" />
+<card number="6" text="ils aiment" />
+<card number="7" text="j'aimai" />
+<card number="8" text="tu aimas" />
+<card number="9" text="il aima" />
+<card number="10" text="nous aimâmes" />
+<card number="11" text="vous aimâtes" />
+<card number="12" text="ils aimèrent" />
+<card number="13" text="j'ai aimé" />
+<card number="14" text="tu as aimé" />
+<card number="15" text="il a aimé" />
+<card number="16" text="nous avons aimé" />
+<card number="17" text="vous avez aimé" />
+<card number="18" text="ils ont aimé" />
+<card number="19" text="j'eus aimé" />
+<card number="20" text="tu eus aimé" />
+<card number="21" text="il eut aimé" />
+<card number="22" text="nous eûmes aimé" />
+<card number="23" text="vous eûtes aimé" />
+<card number="24" text="ils eurent aimé" />
+<card number="25" text="j'aimais" />
+<card number="26" text="tu aimais" />
+<card number="27" text="il aimait" />
+<card number="28" text="nous aimions" />
+<card number="29" text="vous aimiez" />
+<card number="30" text="ils aimaient" />
+<card number="31" text="j'aimerai" />
+<card number="32" text="tu aimeras" />
+<card number="33" text="il aimera" />
+<card number="34" text="nous aimerons" />
+<card number="35" text="vous aimerez" />
+<card number="36" text="ils aimeront" />
+<card number="37" text="j'avais aimé" />
+<card number="38" text="tu avais aimé" />
+<card number="39" text="il avait aimé" />
+<card number="40" text="nous avions aimé" />
+<card number="41" text="vous aviez aimé" />
+<card number="42" text="ils avaient aimé" />
+<card number="43" text="j'aurai aimé" />
+<card number="44" text="tu auras aimé" />
+<card number="45" text="il aura aimé" />
+<card number="46" text="nous aurons aimé" />
+<card number="47" text="vous aurez aimé" />
+<card number="48" text="ils auront aimé" />
+<card number="49" text="que j'aime" />
+<card number="50" text="que tu aimes" />
+<card number="51" text="qu'il aime" />
+<card number="52" text="que nous aimions" />
+<card number="53" text="que vous aimiez" />
+<card number="54" text="qu'ils aiment" />
+<card number="55" text="que j'aie aimé" />
+<card number="56" text="que tu aies aimé" />
+<card number="57" text="qu'il ait aimé" />
+<card number="58" text="que nous ayons aimé" />
+<card number="59" text="que vous ayez aimé" />
+<card number="60" text="qu'ils aient aimé" />
+<card number="61" text="que j'aimasse" />
+<card number="62" text="que tu aimasses" />
+<card number="63" text="qu'il aimât" />
+<card number="64" text="que nous aimassions" />
+<card number="65" text="que vous aimassiez" />
+<card number="66" text="qu'ils aimassent" />
+<card number="67" text="que j'eusse aimé" />
+<card number="68" text="que tu eusses aimé" />
+<card number="69" text="qu'il eût aimé" />
+<card number="70" text="que nous eussions aimé" />
+<card number="71" text="que vous eussiez aimé" />
+<card number="72" text="qu'ils eussent aimé" />
+<card number="73" text="j'aimerais" />
+<card number="74" text="tu aimerais" />
+<card number="75" text="il aimerait" />
+<card number="76" text="nous aimerions" />
+<card number="77" text="vous aimeriez" />
+<card number="78" text="ils aimeraient" />
+<card number="79" text="j'aurais aimé" />
+<card number="80" text="tu aurais aimé" />
+<card number="81" text="il aurait aimé" />
+<card number="82" text="nous aurions aimé" />
+<card number="83" text="vous auriez aimé" />
+<card number="84" text="ils auraient aimé" />
+<card number="85" text="j'eusse aimé" />
+<card number="86" text="tu eusses aimé" />
+<card number="87" text="il eût aimé" />
+<card number="88" text="nous eussions aimé" />
+<card number="89" text="vous eussiez aimé" />
+<card number="90" text="ils eussent aimé" />
+<card number="91" text="aime" />
+<card number="92" text="aimons" />
+<card number="93" text="aimez" />
+<card number="94" text="aie aimé" />
+<card number="95" text="ayons aimé" />
+<card number="96" text="ayez aimé" />
+<card number="97" text="aimer" />
+<card number="98" text="avoir aimé" />
+<card number="99" text="aimant" />
+<card number="100" text="aimé" />
+</deck>

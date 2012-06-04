@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je vis" />
+<card number="2" text="tu vis" />
+<card number="3" text="il vit" />
+<card number="4" text="nous vivons" />
+<card number="5" text="vous vivez" />
+<card number="6" text="ils vivent" />
+<card number="7" text="je vécus" />
+<card number="8" text="tu vécus" />
+<card number="9" text="il vécut" />
+<card number="10" text="nous vécûmes" />
+<card number="11" text="vous vécûtes" />
+<card number="12" text="ils vécurent" />
+<card number="13" text="j'ai vécu" />
+<card number="14" text="tu as vécu" />
+<card number="15" text="il a vécu" />
+<card number="16" text="nous avons vécu" />
+<card number="17" text="vous avez vécu" />
+<card number="18" text="ils ont vécu" />
+<card number="19" text="j'eus vécu" />
+<card number="20" text="tu eus vécu" />
+<card number="21" text="il eut vécu" />
+<card number="22" text="nous eûmes vécu" />
+<card number="23" text="vous eûtes vécu" />
+<card number="24" text="ils eurent vécu" />
+<card number="25" text="je vivais" />
+<card number="26" text="tu vivais" />
+<card number="27" text="il vivait" />
+<card number="28" text="nous vivions" />
+<card number="29" text="vous viviez" />
+<card number="30" text="ils vivaient" />
+<card number="31" text="je vivrai" />
+<card number="32" text="tu vivras" />
+<card number="33" text="il vivra" />
+<card number="34" text="nous vivrons" />
+<card number="35" text="vous vivrez" />
+<card number="36" text="ils vivront" />
+<card number="37" text="j'avais vécu" />
+<card number="38" text="tu avais vécu" />
+<card number="39" text="il avait vécu" />
+<card number="40" text="nous avions vécu" />
+<card number="41" text="vous aviez vécu" />
+<card number="42" text="ils avaient vécu" />
+<card number="43" text="j'aurai vécu" />
+<card number="44" text="tu auras vécu" />
+<card number="45" text="il aura vécu" />
+<card number="46" text="nous aurons vécu" />
+<card number="47" text="vous aurez vécu" />
+<card number="48" text="ils auront vécu" />
+<card number="49" text="que je vive" />
+<card number="50" text="que tu vives" />
+<card number="51" text="qu'il vive" />
+<card number="52" text="que nous vivions" />
+<card number="53" text="que vous viviez" />
+<card number="54" text="qu'ils vivent" />
+<card number="55" text="que j'aie vécu" />
+<card number="56" text="que tu aies vécu" />
+<card number="57" text="qu'il ait vécu" />
+<card number="58" text="que nous ayons vécu" />
+<card number="59" text="que vous ayez vécu" />
+<card number="60" text="qu'ils aient vécu" />
+<card number="61" text="que je vécusse" />
+<card number="62" text="que tu vécusses" />
+<card number="63" text="qu'il vécût" />
+<card number="64" text="que nous vécussions" />
+<card number="65" text="que vous vécussiez" />
+<card number="66" text="qu'ils vécussent" />
+<card number="67" text="que j'eusse vécu" />
+<card number="68" text="que tu eusses vécu" />
+<card number="69" text="qu'il eût vécu" />
+<card number="70" text="que nous eussions vécu" />
+<card number="71" text="que vous eussiez vécu" />
+<card number="72" text="qu'ils eussent vécu" />
+<card number="73" text="je vivrais" />
+<card number="74" text="tu vivrais" />
+<card number="75" text="il vivrait" />
+<card number="76" text="nous vivrions" />
+<card number="77" text="vous vivriez" />
+<card number="78" text="ils vivraient" />
+<card number="79" text="j'aurais vécu" />
+<card number="80" text="tu aurais vécu" />
+<card number="81" text="il aurait vécu" />
+<card number="82" text="nous aurions vécu" />
+<card number="83" text="vous auriez vécu" />
+<card number="84" text="ils auraient vécu" />
+<card number="85" text="j'eusse vécu" />
+<card number="86" text="tu eusses vécu" />
+<card number="87" text="il eût vécu" />
+<card number="88" text="nous eussions vécu" />
+<card number="89" text="vous eussiez vécu" />
+<card number="90" text="ils eussent vécu" />
+<card number="91" text="vis" />
+<card number="92" text="vivons" />
+<card number="93" text="vivez" />
+<card number="94" text="aie vécu" />
+<card number="95" text="ayons vécu" />
+<card number="96" text="ayez vécu" />
+<card number="97" text="vivre" />
+<card number="98" text="avoir vécu" />
+<card number="99" text="vivant" />
+<card number="100" text="vécu" />
+</deck>

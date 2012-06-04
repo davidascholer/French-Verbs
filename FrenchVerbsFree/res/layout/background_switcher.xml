@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout android:layout_height="fill_parent"
+	xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+	android:orientation="vertical" android:addStatesFromChildren="false"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:id="@+id/BackgroundLayout">
+	<RelativeLayout android:layout_width="fill_parent"
+		android:id="@+id/relativeLayout1" android:layout_height="fill_parent"
+		android:gravity="center_horizontal">
+		<ImageButton android:layout_height="wrap_content"
+			android:background="@android:color/transparent"
+			android:layout_width="wrap_content" android:id="@+id/changeButton"
+			android:layout_centerInParent="true" android:src="@drawable/background_select_button"
+			android:scaleType="fitXY" android:layout_above="@+id/adView" android:layout_marginBottom="1dp"></ImageButton>
+	-<com.google.ads.AdView android:id="@+id/adView" android:layout_alignParentBottom="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+	ads:adUnitId="a14ec7625381004"
+	ads:adSize="BANNER"
+	ads:loadAdOnCreate="true"/>
+	</RelativeLayout>
+</LinearLayout>

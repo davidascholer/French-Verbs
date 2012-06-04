@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je reçois" />
+<card number="2" text="tu reçois" />
+<card number="3" text="il reçoit" />
+<card number="4" text="nous recevons" />
+<card number="5" text="vous recevez" />
+<card number="6" text="ils reçoivent" />
+<card number="7" text="je reçus" />
+<card number="8" text="tu reçus" />
+<card number="9" text="il reçut" />
+<card number="10" text="nous reçûmes" />
+<card number="11" text="vous reçûtes" />
+<card number="12" text="ils reçurent" />
+<card number="13" text="j'ai reçu" />
+<card number="14" text="tu as reçu" />
+<card number="15" text="il a reçu" />
+<card number="16" text="nous avons reçu" />
+<card number="17" text="vous avez reçu" />
+<card number="18" text="ils ont reçu" />
+<card number="19" text="j'eus reçu" />
+<card number="20" text="tu eus reçu" />
+<card number="21" text="il eut reçu" />
+<card number="22" text="nous eûmes reçu" />
+<card number="23" text="vous eûtes reçu" />
+<card number="24" text="ils eurent reçu" />
+<card number="25" text="je recevais" />
+<card number="26" text="tu recevais" />
+<card number="27" text="il recevait" />
+<card number="28" text="nous recevions" />
+<card number="29" text="vous receviez" />
+<card number="30" text="ils recevaient" />
+<card number="31" text="je recevrai" />
+<card number="32" text="tu recevras" />
+<card number="33" text="il recevra" />
+<card number="34" text="nous recevrons" />
+<card number="35" text="vous recevrez" />
+<card number="36" text="ils recevront" />
+<card number="37" text="j'avais reçu" />
+<card number="38" text="tu avais reçu" />
+<card number="39" text="il avait reçu" />
+<card number="40" text="nous avions reçu" />
+<card number="41" text="vous aviez reçu" />
+<card number="42" text="ils avaient reçu" />
+<card number="43" text="j'aurai reçu" />
+<card number="44" text="tu auras reçu" />
+<card number="45" text="il aura reçu" />
+<card number="46" text="nous aurons reçu" />
+<card number="47" text="vous aurez reçu" />
+<card number="48" text="ils auront reçu" />
+<card number="49" text="que je reçoive" />
+<card number="50" text="que tu reçoives" />
+<card number="51" text="qu'il reçoive" />
+<card number="52" text="que nous recevions" />
+<card number="53" text="que vous receviez" />
+<card number="54" text="qu'ils reçoivent" />
+<card number="55" text="que j'aie reçu" />
+<card number="56" text="que tu aies reçu" />
+<card number="57" text="qu'il ait reçu" />
+<card number="58" text="que nous ayons reçu" />
+<card number="59" text="que vous ayez reçu" />
+<card number="60" text="qu'ils aient reçu" />
+<card number="61" text="que je reçusse" />
+<card number="62" text="que tu reçusses" />
+<card number="63" text="qu'il reçût" />
+<card number="64" text="que nous reçussions" />
+<card number="65" text="que vous reçussiez" />
+<card number="66" text="qu'ils reçussent" />
+<card number="67" text="que j'eusse reçu" />
+<card number="68" text="que tu eusses reçu" />
+<card number="69" text="qu'il eût reçu" />
+<card number="70" text="que nous eussions reçu" />
+<card number="71" text="que vous eussiez reçu" />
+<card number="72" text="qu'ils eussent reçu" />
+<card number="73" text="je recevrais" />
+<card number="74" text="tu recevrais" />
+<card number="75" text="il recevrait" />
+<card number="76" text="nous recevrions" />
+<card number="77" text="vous recevriez" />
+<card number="78" text="ils recevraient" />
+<card number="79" text="j'aurais reçu" />
+<card number="80" text="tu aurais reçu" />
+<card number="81" text="il aurait reçu" />
+<card number="82" text="nous aurions reçu" />
+<card number="83" text="vous auriez reçu" />
+<card number="84" text="ils auraient reçu" />
+<card number="85" text="j'eusse reçu" />
+<card number="86" text="tu eusses reçu" />
+<card number="87" text="il eût reçu" />
+<card number="88" text="nous eussions reçu" />
+<card number="89" text="vous eussiez reçu" />
+<card number="90" text="ils eussent reçu" />
+<card number="91" text="reçois" />
+<card number="92" text="recevons" />
+<card number="93" text="recevez" />
+<card number="94" text="aie reçu" />
+<card number="95" text="ayons reçu" />
+<card number="96" text="ayez reçu" />
+<card number="97" text="recevoir" />
+<card number="98" text="avoir reçu" />
+<card number="99" text="recevant" />
+<card number="100" text="reçu" />
+</deck>

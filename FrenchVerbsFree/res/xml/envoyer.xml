@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="j'envoie" />
+<card number="2" text="tu envoies" />
+<card number="3" text="il envoie" />
+<card number="4" text="nous envoyons" />
+<card number="5" text="vous envoyez" />
+<card number="6" text="ils envoient" />
+<card number="7" text="j'envoyai" />
+<card number="8" text="tu envoyas" />
+<card number="9" text="il envoya" />
+<card number="10" text="nous envoyâmes" />
+<card number="11" text="vous envoyâtes" />
+<card number="12" text="ils envoyèrent" />
+<card number="13" text="j'ai envoyé" />
+<card number="14" text="tu as envoyé" />
+<card number="15" text="il a envoyé" />
+<card number="16" text="nous avons envoyé" />
+<card number="17" text="vous avez envoyé" />
+<card number="18" text="ils ont envoyé" />
+<card number="19" text="j'eus envoyé" />
+<card number="20" text="tu eus envoyé" />
+<card number="21" text="il eut envoyé" />
+<card number="22" text="nous eûmes envoyé" />
+<card number="23" text="vous eûtes envoyé" />
+<card number="24" text="ils eurent envoyé" />
+<card number="25" text="j'envoyais" />
+<card number="26" text="tu envoyais" />
+<card number="27" text="il envoyait" />
+<card number="28" text="nous envoyions" />
+<card number="29" text="vous envoyiez" />
+<card number="30" text="ils envoyaient" />
+<card number="31" text="j'enverrai" />
+<card number="32" text="tu enverras" />
+<card number="33" text="il enverra" />
+<card number="34" text="nous enverrons" />
+<card number="35" text="vous enverrez" />
+<card number="36" text="ils enverront" />
+<card number="37" text="j'avais envoyé" />
+<card number="38" text="tu avais envoyé" />
+<card number="39" text="il avait envoyé" />
+<card number="40" text="nous avions envoyé" />
+<card number="41" text="vous aviez envoyé" />
+<card number="42" text="ils avaient envoyé" />
+<card number="43" text="j'aurai envoyé" />
+<card number="44" text="tu auras envoyé" />
+<card number="45" text="il aura envoyé" />
+<card number="46" text="nous aurons envoyé" />
+<card number="47" text="vous aurez envoyé" />
+<card number="48" text="ils auront envoyé" />
+<card number="49" text="que j'envoie" />
+<card number="50" text="que tu envoies" />
+<card number="51" text="qu'il envoie" />
+<card number="52" text="que nous envoyions" />
+<card number="53" text="que vous envoyiez" />
+<card number="54" text="qu'ils envoient" />
+<card number="55" text="que j'aie envoyé" />
+<card number="56" text="que tu aies envoyé" />
+<card number="57" text="qu'il ait envoyé" />
+<card number="58" text="que nous ayons envoyé" />
+<card number="59" text="que vous ayez envoyé" />
+<card number="60" text="qu'ils aient envoyé" />
+<card number="61" text="que j'envoyasse" />
+<card number="62" text="que tu envoyasses" />
+<card number="63" text="qu'il envoyât" />
+<card number="64" text="que nous envoyassions" />
+<card number="65" text="que vous envoyassiez" />
+<card number="66" text="qu'ils envoyassent" />
+<card number="67" text="que j'eusse envoyé" />
+<card number="68" text="que tu eusses envoyé" />
+<card number="69" text="qu'il eût envoyé" />
+<card number="70" text="que nous eussions envoyé" />
+<card number="71" text="que vous eussiez envoyé" />
+<card number="72" text="qu'ils eussent envoyé" />
+<card number="73" text="j'enverrais" />
+<card number="74" text="tu enverrais" />
+<card number="75" text="il enverrait" />
+<card number="76" text="nous enverrions" />
+<card number="77" text="vous enverriez" />
+<card number="78" text="ils enverraient" />
+<card number="79" text="j'aurais envoyé" />
+<card number="80" text="tu aurais envoyé" />
+<card number="81" text="il aurait envoyé" />
+<card number="82" text="nous aurions envoyé" />
+<card number="83" text="vous auriez envoyé" />
+<card number="84" text="ils auraient envoyé" />
+<card number="85" text="j'eusse envoyé" />
+<card number="86" text="tu eusses envoyé" />
+<card number="87" text="il eût envoyé" />
+<card number="88" text="nous eussions envoyé" />
+<card number="89" text="vous eussiez envoyé" />
+<card number="90" text="ils eussent envoyé" />
+<card number="91" text="envoie" />
+<card number="92" text="envoyons" />
+<card number="93" text="envoyez" />
+<card number="94" text="aie envoyé" />
+<card number="95" text="ayons envoyé" />
+<card number="96" text="ayez envoyé" />
+<card number="97" text="envoyer" />
+<card number="98" text="avoir envoyé" />
+<card number="99" text="envoyant" />
+<card number="100" text="envoyé" />
+</deck>

@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je suis" />
+<card number="2" text="tu es" />
+<card number="3" text="il est" />
+<card number="4" text="nous sommes" />
+<card number="5" text="vous êtes" />
+<card number="6" text="ils sont" />
+<card number="7" text="je fus" />
+<card number="8" text="tu fus" />
+<card number="9" text="il fut" />
+<card number="10" text="nous fûmes" />
+<card number="11" text="vous fûtes" />
+<card number="12" text="ils furent" />
+<card number="13" text="j'ai été" />
+<card number="14" text="tu as été" />
+<card number="15" text="il a été" />
+<card number="16" text="nous avons été" />
+<card number="17" text="vous avez été" />
+<card number="18" text="ils ont été" />
+<card number="19" text="j'eus été" />
+<card number="20" text="tu eus été" />
+<card number="21" text="il eut été" />
+<card number="22" text="nous eûmes été" />
+<card number="23" text="vous eûtes été" />
+<card number="24" text="ils eurent été" />
+<card number="25" text="j'étais" />
+<card number="26" text="tu étais" />
+<card number="27" text="il était" />
+<card number="28" text="nous étions" />
+<card number="29" text="vous étiez" />
+<card number="30" text="ils étaient" />
+<card number="31" text="je serai" />
+<card number="32" text="tu seras" />
+<card number="33" text="il sera" />
+<card number="34" text="nous serons" />
+<card number="35" text="vous serez" />
+<card number="36" text="ils seront" />
+<card number="37" text="j'avais été" />
+<card number="38" text="tu avais été" />
+<card number="39" text="il avait été" />
+<card number="40" text="nous avions été" />
+<card number="41" text="vous aviez été" />
+<card number="42" text="ils avaient été" />
+<card number="43" text="j'aurai été" />
+<card number="44" text="tu auras été" />
+<card number="45" text="il aura été" />
+<card number="46" text="nous aurons été" />
+<card number="47" text="vous aurez été" />
+<card number="48" text="ils auront été" />
+<card number="49" text="que je sois" />
+<card number="50" text="que tu sois" />
+<card number="51" text="qu'il soit" />
+<card number="52" text="que nous soyons" />
+<card number="53" text="que vous soyez" />
+<card number="54" text="qu'ils soient" />
+<card number="55" text="que j'aie été" />
+<card number="56" text="que tu aies été" />
+<card number="57" text="qu'il ait été" />
+<card number="58" text="que nous ayons été" />
+<card number="59" text="que vous ayez été" />
+<card number="60" text="qu'ils aient été" />
+<card number="61" text="que je fusse" />
+<card number="62" text="que tu fusses" />
+<card number="63" text="qu'il fût" />
+<card number="64" text="que nous fussions" />
+<card number="65" text="que vous fussiez" />
+<card number="66" text="qu'ils fussent" />
+<card number="67" text="que j'eusse été" />
+<card number="68" text="que tu eusses été" />
+<card number="69" text="qu'il eût été" />
+<card number="70" text="que nous eussions été" />
+<card number="71" text="que vous eussiez été" />
+<card number="72" text="qu'ils eussent été" />
+<card number="73" text="je serais" />
+<card number="74" text="tu serais" />
+<card number="75" text="il serait" />
+<card number="76" text="nous serions" />
+<card number="77" text="vous seriez" />
+<card number="78" text="ils seraient" />
+<card number="79" text="j'aurais été" />
+<card number="80" text="tu aurais été" />
+<card number="81" text="il aurait été" />
+<card number="82" text="nous aurions été" />
+<card number="83" text="vous auriez été" />
+<card number="84" text="ils auraient été" />
+<card number="85" text="j'eusse été" />
+<card number="86" text="tu eusses été" />
+<card number="87" text="il eût été" />
+<card number="88" text="nous eussions été" />
+<card number="89" text="vous eussiez été" />
+<card number="90" text="ils eussent été" />
+<card number="91" text="sois" />
+<card number="92" text="soyons" />
+<card number="93" text="soyez" />
+<card number="94" text="aie été" />
+<card number="95" text="ayons été" />
+<card number="96" text="ayez été" />
+<card number="97" text="être" />
+<card number="98" text="avoir été" />
+<card number="99" text="étant" />
+<card number="100" text="été" />
+</deck>

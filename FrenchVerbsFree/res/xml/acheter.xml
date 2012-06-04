@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="j'achète" />
+<card number="2" text="tu achètes" />
+<card number="3" text="il achète" />
+<card number="4" text="nous achetons" />
+<card number="5" text="vous achetez" />
+<card number="6" text="ils achètent" />
+<card number="7" text="j'achetai" />
+<card number="8" text="tu achetas" />
+<card number="9" text="il acheta" />
+<card number="10" text="nous achetâmes" />
+<card number="11" text="vous achetâtes" />
+<card number="12" text="ils achetèrent" />
+<card number="13" text="j'ai acheté" />
+<card number="14" text="tu as acheté" />
+<card number="15" text="il a acheté" />
+<card number="16" text="nous avons acheté" />
+<card number="17" text="vous avez acheté" />
+<card number="18" text="ils ont acheté" />
+<card number="19" text="j'eus acheté" />
+<card number="20" text="tu eus acheté" />
+<card number="21" text="il eut acheté" />
+<card number="22" text="nous eûmes acheté" />
+<card number="23" text="vous eûtes acheté" />
+<card number="24" text="ils eurent acheté" />
+<card number="25" text="j'achetais" />
+<card number="26" text="tu achetais" />
+<card number="27" text="il achetait" />
+<card number="28" text="nous achetions" />
+<card number="29" text="vous achetiez" />
+<card number="30" text="ils achetaient" />
+<card number="31" text="j'achèterai" />
+<card number="32" text="tu achèteras" />
+<card number="33" text="il achètera" />
+<card number="34" text="nous achèterons" />
+<card number="35" text="vous achèterez" />
+<card number="36" text="ils achèteront" />
+<card number="37" text="j'avais acheté" />
+<card number="38" text="tu avais acheté" />
+<card number="39" text="il avait acheté" />
+<card number="40" text="nous avions acheté" />
+<card number="41" text="vous aviez acheté" />
+<card number="42" text="ils avaient acheté" />
+<card number="43" text="j'aurai acheté" />
+<card number="44" text="tu auras acheté" />
+<card number="45" text="il aura acheté" />
+<card number="46" text="nous aurons acheté" />
+<card number="47" text="vous aurez acheté" />
+<card number="48" text="ils auront acheté" />
+<card number="49" text="que j'achète" />
+<card number="50" text="que tu achètes" />
+<card number="51" text="qu'il achète" />
+<card number="52" text="que nous achetions" />
+<card number="53" text="que vous achetiez" />
+<card number="54" text="qu'ils achètent" />
+<card number="55" text="que j'aie acheté" />
+<card number="56" text="que tu aies acheté" />
+<card number="57" text="qu'il ait acheté" />
+<card number="58" text="que nous ayons acheté" />
+<card number="59" text="que vous ayez acheté" />
+<card number="60" text="qu'ils aient acheté" />
+<card number="61" text="que j'achetasse" />
+<card number="62" text="que tu achetasses" />
+<card number="63" text="qu'il achetât" />
+<card number="64" text="que nous achetassions" />
+<card number="65" text="que vous achetassiez" />
+<card number="66" text="qu'ils achetassent" />
+<card number="67" text="que j'eusse acheté" />
+<card number="68" text="que tu eusses acheté" />
+<card number="69" text="qu'il eût acheté" />
+<card number="70" text="que nous eussions acheté" />
+<card number="71" text="que vous eussiez acheté" />
+<card number="72" text="qu'ils eussent acheté" />
+<card number="73" text="j'achèterais" />
+<card number="74" text="tu achèterais" />
+<card number="75" text="il achèterait" />
+<card number="76" text="nous achèterions" />
+<card number="77" text="vous achèteriez" />
+<card number="78" text="ils achèteraient" />
+<card number="79" text="j'aurais acheté" />
+<card number="80" text="tu aurais acheté" />
+<card number="81" text="il aurait acheté" />
+<card number="82" text="nous aurions acheté" />
+<card number="83" text="vous auriez acheté" />
+<card number="84" text="ils auraient acheté" />
+<card number="85" text="j'eusse acheté" />
+<card number="86" text="tu eusses acheté" />
+<card number="87" text="il eût acheté" />
+<card number="88" text="nous eussions acheté" />
+<card number="89" text="vous eussiez acheté" />
+<card number="90" text="ils eussent acheté" />
+<card number="91" text="achète" />
+<card number="92" text="achetons" />
+<card number="93" text="achetez" />
+<card number="94" text="aie acheté" />
+<card number="95" text="ayons acheté" />
+<card number="96" text="ayez acheté" />
+<card number="97" text="acheter" />
+<card number="98" text="avoir acheté" />
+<card number="99" text="achetant" />
+<card number="100" text="acheté" />
+</deck>

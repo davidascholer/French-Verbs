@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je tiens" />
+<card number="2" text="tu tiens" />
+<card number="3" text="il tient" />
+<card number="4" text="nous tenons" />
+<card number="5" text="vous tenez" />
+<card number="6" text="ils tiennent" />
+<card number="7" text="je tins" />
+<card number="8" text="tu tins" />
+<card number="9" text="il tint" />
+<card number="10" text="nous tînmes" />
+<card number="11" text="vous tîntes" />
+<card number="12" text="ils tinrent" />
+<card number="13" text="j'ai tenu" />
+<card number="14" text="tu as tenu" />
+<card number="15" text="il a tenu" />
+<card number="16" text="nous avons tenu" />
+<card number="17" text="vous avez tenu" />
+<card number="18" text="ils ont tenu" />
+<card number="19" text="j'eus tenu" />
+<card number="20" text="tu eus tenu" />
+<card number="21" text="il eut tenu" />
+<card number="22" text="nous eûmes tenu" />
+<card number="23" text="vous eûtes tenu" />
+<card number="24" text="ils eurent tenu" />
+<card number="25" text="je tenais" />
+<card number="26" text="tu tenais" />
+<card number="27" text="il tenait" />
+<card number="28" text="nous tenions" />
+<card number="29" text="vous teniez" />
+<card number="30" text="ils tenaient" />
+<card number="31" text="je tiendrai" />
+<card number="32" text="tu tiendras" />
+<card number="33" text="il tiendra" />
+<card number="34" text="nous tiendrons" />
+<card number="35" text="vous tiendrez" />
+<card number="36" text="ils tiendront" />
+<card number="37" text="j'avais tenu" />
+<card number="38" text="tu avais tenu" />
+<card number="39" text="il avait tenu" />
+<card number="40" text="nous avions tenu" />
+<card number="41" text="vous aviez tenu" />
+<card number="42" text="ils avaient tenu" />
+<card number="43" text="j'aurai tenu" />
+<card number="44" text="tu auras tenu" />
+<card number="45" text="il aura tenu" />
+<card number="46" text="nous aurons tenu" />
+<card number="47" text="vous aurez tenu" />
+<card number="48" text="ils auront tenu" />
+<card number="49" text="que je tienne" />
+<card number="50" text="que tu tiennes" />
+<card number="51" text="qu'il tienne" />
+<card number="52" text="que nous tenions" />
+<card number="53" text="que vous teniez" />
+<card number="54" text="qu'ils tiennent" />
+<card number="55" text="que j'aie tenu" />
+<card number="56" text="que tu aies tenu" />
+<card number="57" text="qu'il ait tenu" />
+<card number="58" text="que nous ayons tenu" />
+<card number="59" text="que vous ayez tenu" />
+<card number="60" text="qu'ils aient tenu" />
+<card number="61" text="que je tinsse" />
+<card number="62" text="que tu tinsses" />
+<card number="63" text="qu'il tînt" />
+<card number="64" text="que nous tinssions" />
+<card number="65" text="que vous tinssiez" />
+<card number="66" text="qu'ils tinssent" />
+<card number="67" text="que j'eusse tenu" />
+<card number="68" text="que tu eusses tenu" />
+<card number="69" text="qu'il eût tenu" />
+<card number="70" text="que nous eussions tenu" />
+<card number="71" text="que vous eussiez tenu" />
+<card number="72" text="qu'ils eussent tenu" />
+<card number="73" text="je tiendrais" />
+<card number="74" text="tu tiendrais" />
+<card number="75" text="il tiendrait" />
+<card number="76" text="nous tiendrions" />
+<card number="77" text="vous tiendriez" />
+<card number="78" text="ils tiendraient" />
+<card number="79" text="j'aurais tenu" />
+<card number="80" text="tu aurais tenu" />
+<card number="81" text="il aurait tenu" />
+<card number="82" text="nous aurions tenu" />
+<card number="83" text="vous auriez tenu" />
+<card number="84" text="ils auraient tenu" />
+<card number="85" text="j'eusse tenu" />
+<card number="86" text="tu eusses tenu" />
+<card number="87" text="il eût tenu" />
+<card number="88" text="nous eussions tenu" />
+<card number="89" text="vous eussiez tenu" />
+<card number="90" text="ils eussent tenu" />
+<card number="91" text="tiens" />
+<card number="92" text="tenons" />
+<card number="93" text="tenez" />
+<card number="94" text="aie tenu" />
+<card number="95" text="ayons tenu" />
+<card number="96" text="ayez tenu" />
+<card number="97" text="tenir" />
+<card number="98" text="avoir tenu" />
+<card number="99" text="tenant" />
+<card number="100" text="tenu" />
+</deck>

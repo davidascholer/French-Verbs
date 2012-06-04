@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je meurs" />
+<card number="2" text="tu meurs" />
+<card number="3" text="il meurt" />
+<card number="4" text="nous mourons" />
+<card number="5" text="vous mourez" />
+<card number="6" text="ils meurent" />
+<card number="7" text="je mourus" />
+<card number="8" text="tu mourus" />
+<card number="9" text="il mourut" />
+<card number="10" text="nous mourûmes" />
+<card number="11" text="vous mourûtes" />
+<card number="12" text="ils moururent" />
+<card number="13" text="je suis mort" />
+<card number="14" text="tu es mort" />
+<card number="15" text="il est mort" />
+<card number="16" text="nous sommes morts" />
+<card number="17" text="vous êtes morts" />
+<card number="18" text="ils sont morts" />
+<card number="19" text="je fus mort" />
+<card number="20" text="tu fus mort" />
+<card number="21" text="il fut mort" />
+<card number="22" text="nous fûmes morts" />
+<card number="23" text="vous fûtes morts" />
+<card number="24" text="ils furent morts" />
+<card number="25" text="je mourais" />
+<card number="26" text="tu mourais" />
+<card number="27" text="il mourait" />
+<card number="28" text="nous mourions" />
+<card number="29" text="vous mouriez" />
+<card number="30" text="ils mouraient" />
+<card number="31" text="je mourrai" />
+<card number="32" text="tu mourras" />
+<card number="33" text="il mourra" />
+<card number="34" text="nous mourrons" />
+<card number="35" text="vous mourrez" />
+<card number="36" text="ils mourront" />
+<card number="37" text="j'étais mort" />
+<card number="38" text="tu étais mort" />
+<card number="39" text="il était mort" />
+<card number="40" text="nous étions morts" />
+<card number="41" text="vous étiez morts" />
+<card number="42" text="ils étaient morts" />
+<card number="43" text="je serai mort" />
+<card number="44" text="tu seras mort" />
+<card number="45" text="il sera mort" />
+<card number="46" text="nous serons morts" />
+<card number="47" text="vous serez morts" />
+<card number="48" text="ils seront morts" />
+<card number="49" text="que je meure" />
+<card number="50" text="que tu meures" />
+<card number="51" text="qu'il meure" />
+<card number="52" text="que nous mourions" />
+<card number="53" text="que vous mouriez" />
+<card number="54" text="qu'ils meurent" />
+<card number="55" text="que je sois mort" />
+<card number="56" text="que tu sois mort" />
+<card number="57" text="qu'il soit mort" />
+<card number="58" text="que nous soyons morts" />
+<card number="59" text="que vous soyez morts" />
+<card number="60" text="qu'ils soient morts" />
+<card number="61" text="que je mourusse" />
+<card number="62" text="que tu mourusses" />
+<card number="63" text="qu'il mourût" />
+<card number="64" text="que nous mourussions" />
+<card number="65" text="que vous mourussiez" />
+<card number="66" text="qu'ils mourussent" />
+<card number="67" text="que je fusse mort" />
+<card number="68" text="que tu fusses mort" />
+<card number="69" text="qu'il fût mort" />
+<card number="70" text="que nous fussions morts" />
+<card number="71" text="que vous fussiez morts" />
+<card number="72" text="qu'ils fussent morts" />
+<card number="73" text="je mourrais" />
+<card number="74" text="tu mourrais" />
+<card number="75" text="il mourrait" />
+<card number="76" text="nous mourrions" />
+<card number="77" text="vous mourriez" />
+<card number="78" text="ils mourraient" />
+<card number="79" text="je serais mort" />
+<card number="80" text="tu serais mort" />
+<card number="81" text="il serait mort" />
+<card number="82" text="nous serions morts" />
+<card number="83" text="vous seriez morts" />
+<card number="84" text="ils seraient morts" />
+<card number="85" text="je fusse mort" />
+<card number="86" text="tu fusses mort" />
+<card number="87" text="il fût mort" />
+<card number="88" text="nous fussions morts" />
+<card number="89" text="vous fussiez morts" />
+<card number="90" text="ils fussent morts" />
+<card number="91" text="meurs" />
+<card number="92" text="mourons" />
+<card number="93" text="mourez" />
+<card number="94" text="sois mort" />
+<card number="95" text="soyons morts" />
+<card number="96" text="soyez morts" />
+<card number="97" text="mourir" />
+<card number="98" text="être mort" />
+<card number="99" text="mourant" />
+<card number="100" text="mort" />
+</deck>

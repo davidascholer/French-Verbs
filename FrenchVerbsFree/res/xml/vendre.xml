@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je vends" />
+<card number="2" text="tu vends" />
+<card number="3" text="il vend" />
+<card number="4" text="nous vendons" />
+<card number="5" text="vous vendez" />
+<card number="6" text="ils vendent" />
+<card number="7" text="je vendis" />
+<card number="8" text="tu vendis" />
+<card number="9" text="il vendit" />
+<card number="10" text="nous vendîmes" />
+<card number="11" text="vous vendîtes" />
+<card number="12" text="ils vendirent" />
+<card number="13" text="j'ai vendu" />
+<card number="14" text="tu as vendu" />
+<card number="15" text="il a vendu" />
+<card number="16" text="nous avons vendu" />
+<card number="17" text="vous avez vendu" />
+<card number="18" text="ils ont vendu" />
+<card number="19" text="j'eus vendu" />
+<card number="20" text="tu eus vendu" />
+<card number="21" text="il eut vendu" />
+<card number="22" text="nous eûmes vendu" />
+<card number="23" text="vous eûtes vendu" />
+<card number="24" text="ils eurent vendu" />
+<card number="25" text="je vendais" />
+<card number="26" text="tu vendais" />
+<card number="27" text="il vendait" />
+<card number="28" text="nous vendions" />
+<card number="29" text="vous vendiez" />
+<card number="30" text="ils vendaient" />
+<card number="31" text="je vendrai" />
+<card number="32" text="tu vendras" />
+<card number="33" text="il vendra" />
+<card number="34" text="nous vendrons" />
+<card number="35" text="vous vendrez" />
+<card number="36" text="ils vendront" />
+<card number="37" text="j'avais vendu" />
+<card number="38" text="tu avais vendu" />
+<card number="39" text="il avait vendu" />
+<card number="40" text="nous avions vendu" />
+<card number="41" text="vous aviez vendu" />
+<card number="42" text="ils avaient vendu" />
+<card number="43" text="j'aurai vendu" />
+<card number="44" text="tu auras vendu" />
+<card number="45" text="il aura vendu" />
+<card number="46" text="nous aurons vendu" />
+<card number="47" text="vous aurez vendu" />
+<card number="48" text="ils auront vendu" />
+<card number="49" text="que je vende" />
+<card number="50" text="que tu vendes" />
+<card number="51" text="qu'il vende" />
+<card number="52" text="que nous vendions" />
+<card number="53" text="que vous vendiez" />
+<card number="54" text="qu'ils vendent" />
+<card number="55" text="que j'aie vendu" />
+<card number="56" text="que tu aies vendu" />
+<card number="57" text="qu'il ait vendu" />
+<card number="58" text="que nous ayons vendu" />
+<card number="59" text="que vous ayez vendu" />
+<card number="60" text="qu'ils aient vendu" />
+<card number="61" text="que je vendisse" />
+<card number="62" text="que tu vendisses" />
+<card number="63" text="qu'il vendît" />
+<card number="64" text="que nous vendissions" />
+<card number="65" text="que vous vendissiez" />
+<card number="66" text="qu'ils vendissent" />
+<card number="67" text="que j'eusse vendu" />
+<card number="68" text="que tu eusses vendu" />
+<card number="69" text="qu'il eût vendu" />
+<card number="70" text="que nous eussions vendu" />
+<card number="71" text="que vous eussiez vendu" />
+<card number="72" text="qu'ils eussent vendu" />
+<card number="73" text="je vendrais" />
+<card number="74" text="tu vendrais" />
+<card number="75" text="il vendrait" />
+<card number="76" text="nous vendrions" />
+<card number="77" text="vous vendriez" />
+<card number="78" text="ils vendraient" />
+<card number="79" text="j'aurais vendu" />
+<card number="80" text="tu aurais vendu" />
+<card number="81" text="il aurait vendu" />
+<card number="82" text="nous aurions vendu" />
+<card number="83" text="vous auriez vendu" />
+<card number="84" text="ils auraient vendu" />
+<card number="85" text="j'eusse vendu" />
+<card number="86" text="tu eusses vendu" />
+<card number="87" text="il eût vendu" />
+<card number="88" text="nous eussions vendu" />
+<card number="89" text="vous eussiez vendu" />
+<card number="90" text="ils eussent vendu" />
+<card number="91" text="vends" />
+<card number="92" text="vendons" />
+<card number="93" text="vendez" />
+<card number="94" text="aie vendu" />
+<card number="95" text="ayons vendu" />
+<card number="96" text="ayez vendu" />
+<card number="97" text="vendre" />
+<card number="98" text="avoir vendu" />
+<card number="99" text="vendant" />
+<card number="100" text="vendu" />
+</deck>

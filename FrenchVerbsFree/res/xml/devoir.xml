@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je dois" />
+<card number="2" text="tu dois" />
+<card number="3" text="il doit" />
+<card number="4" text="nous devons" />
+<card number="5" text="vous devez" />
+<card number="6" text="ils doivent" />
+<card number="7" text="je dus" />
+<card number="8" text="tu dus" />
+<card number="9" text="il dut" />
+<card number="10" text="nous dûmes" />
+<card number="11" text="vous dûtes" />
+<card number="12" text="ils durent" />
+<card number="13" text="j'ai dû" />
+<card number="14" text="tu as dû" />
+<card number="15" text="il a dû" />
+<card number="16" text="nous avons dû" />
+<card number="17" text="vous avez dû" />
+<card number="18" text="ils ont dû" />
+<card number="19" text="j'eus dû" />
+<card number="20" text="tu eus dû" />
+<card number="21" text="il eut dû" />
+<card number="22" text="nous eûmes dû" />
+<card number="23" text="vous eûtes dû" />
+<card number="24" text="ils eurent dû" />
+<card number="25" text="je devais" />
+<card number="26" text="tu devais" />
+<card number="27" text="il devait" />
+<card number="28" text="nous devions" />
+<card number="29" text="vous deviez" />
+<card number="30" text="ils devaient" />
+<card number="31" text="je devrai" />
+<card number="32" text="tu devras" />
+<card number="33" text="il devra" />
+<card number="34" text="nous devrons" />
+<card number="35" text="vous devrez" />
+<card number="36" text="ils devront" />
+<card number="37" text="j'avais dû" />
+<card number="38" text="tu avais dû" />
+<card number="39" text="il avait dû" />
+<card number="40" text="nous avions dû" />
+<card number="41" text="vous aviez dû" />
+<card number="42" text="ils avaient dû" />
+<card number="43" text="j'aurai dû" />
+<card number="44" text="tu auras dû" />
+<card number="45" text="il aura dû" />
+<card number="46" text="nous aurons dû" />
+<card number="47" text="vous aurez dû" />
+<card number="48" text="ils auront dû" />
+<card number="49" text="que je doive" />
+<card number="50" text="que tu doives" />
+<card number="51" text="qu'il doive" />
+<card number="52" text="que nous devions" />
+<card number="53" text="que vous deviez" />
+<card number="54" text="qu'ils doivent" />
+<card number="55" text="que j'aie dû" />
+<card number="56" text="que tu aies dû" />
+<card number="57" text="qu'il ait dû" />
+<card number="58" text="que nous ayons dû" />
+<card number="59" text="que vous ayez dû" />
+<card number="60" text="qu'ils aient dû" />
+<card number="61" text="que je dusse" />
+<card number="62" text="que tu dusses" />
+<card number="63" text="qu'il dût" />
+<card number="64" text="que nous dussions" />
+<card number="65" text="que vous dussiez" />
+<card number="66" text="qu'ils dussent" />
+<card number="67" text="que j'eusse dû" />
+<card number="68" text="que tu eusses dû" />
+<card number="69" text="qu'il eût dû" />
+<card number="70" text="que nous eussions dû" />
+<card number="71" text="que vous eussiez dû" />
+<card number="72" text="qu'ils eussent dû" />
+<card number="73" text="je devrais" />
+<card number="74" text="tu devrais" />
+<card number="75" text="il devrait" />
+<card number="76" text="nous devrions" />
+<card number="77" text="vous devriez" />
+<card number="78" text="ils devraient" />
+<card number="79" text="j'aurais dû" />
+<card number="80" text="tu aurais dû" />
+<card number="81" text="il aurait dû" />
+<card number="82" text="nous aurions dû" />
+<card number="83" text="vous auriez dû" />
+<card number="84" text="ils auraient dû" />
+<card number="85" text="j'eusse dû" />
+<card number="86" text="tu eusses dû" />
+<card number="87" text="il eût dû" />
+<card number="88" text="nous eussions dû" />
+<card number="89" text="vous eussiez dû" />
+<card number="90" text="ils eussent dû" />
+<card number="91" text="dois" />
+<card number="92" text="devons" />
+<card number="93" text="devez" />
+<card number="94" text="aie dû" />
+<card number="95" text="ayons dû" />
+<card number="96" text="ayez dû" />
+<card number="97" text="devoir" />
+<card number="98" text="avoir dû" />
+<card number="99" text="devant" />
+<card number="100" text="dû" />
+</deck>

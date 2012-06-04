@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je tousse" />
+<card number="2" text="tu tousses" />
+<card number="3" text="il tousse" />
+<card number="4" text="nous toussons" />
+<card number="5" text="vous toussez" />
+<card number="6" text="ils toussent" />
+<card number="7" text="je toussai" />
+<card number="8" text="tu toussas" />
+<card number="9" text="il toussa" />
+<card number="10" text="nous toussâmes" />
+<card number="11" text="vous toussâtes" />
+<card number="12" text="ils toussèrent" />
+<card number="13" text="j'ai toussé" />
+<card number="14" text="tu as toussé" />
+<card number="15" text="il a toussé" />
+<card number="16" text="nous avons toussé" />
+<card number="17" text="vous avez toussé" />
+<card number="18" text="ils ont toussé" />
+<card number="19" text="j'eus toussé" />
+<card number="20" text="tu eus toussé" />
+<card number="21" text="il eut toussé" />
+<card number="22" text="nous eûmes toussé" />
+<card number="23" text="vous eûtes toussé" />
+<card number="24" text="ils eurent toussé" />
+<card number="25" text="je toussais" />
+<card number="26" text="tu toussais" />
+<card number="27" text="il toussait" />
+<card number="28" text="nous toussions" />
+<card number="29" text="vous toussiez" />
+<card number="30" text="ils toussaient" />
+<card number="31" text="je tousserai" />
+<card number="32" text="tu tousseras" />
+<card number="33" text="il toussera" />
+<card number="34" text="nous tousserons" />
+<card number="35" text="vous tousserez" />
+<card number="36" text="ils tousseront" />
+<card number="37" text="j'avais toussé" />
+<card number="38" text="tu avais toussé" />
+<card number="39" text="il avait toussé" />
+<card number="40" text="nous avions toussé" />
+<card number="41" text="vous aviez toussé" />
+<card number="42" text="ils avaient toussé" />
+<card number="43" text="j'aurai toussé" />
+<card number="44" text="tu auras toussé" />
+<card number="45" text="il aura toussé" />
+<card number="46" text="nous aurons toussé" />
+<card number="47" text="vous aurez toussé" />
+<card number="48" text="ils auront toussé" />
+<card number="49" text="que je tousse" />
+<card number="50" text="que tu tousses" />
+<card number="51" text="qu'il tousse" />
+<card number="52" text="que nous toussions" />
+<card number="53" text="que vous toussiez" />
+<card number="54" text="qu'ils toussent" />
+<card number="55" text="que j'aie toussé" />
+<card number="56" text="que tu aies toussé" />
+<card number="57" text="qu'il ait toussé" />
+<card number="58" text="que nous ayons toussé" />
+<card number="59" text="que vous ayez toussé" />
+<card number="60" text="qu'ils aient toussé" />
+<card number="61" text="que je toussasse" />
+<card number="62" text="que tu toussasses" />
+<card number="63" text="qu'il toussât" />
+<card number="64" text="que nous toussassions" />
+<card number="65" text="que vous toussassiez" />
+<card number="66" text="qu'ils toussassent" />
+<card number="67" text="que j'eusse toussé" />
+<card number="68" text="que tu eusses toussé" />
+<card number="69" text="qu'il eût toussé" />
+<card number="70" text="que nous eussions toussé" />
+<card number="71" text="que vous eussiez toussé" />
+<card number="72" text="qu'ils eussent toussé" />
+<card number="73" text="je tousserais" />
+<card number="74" text="tu tousserais" />
+<card number="75" text="il tousserait" />
+<card number="76" text="nous tousserions" />
+<card number="77" text="vous tousseriez" />
+<card number="78" text="ils tousseraient" />
+<card number="79" text="j'aurais toussé" />
+<card number="80" text="tu aurais toussé" />
+<card number="81" text="il aurait toussé" />
+<card number="82" text="nous aurions toussé" />
+<card number="83" text="vous auriez toussé" />
+<card number="84" text="ils auraient toussé" />
+<card number="85" text="j'eusse toussé" />
+<card number="86" text="tu eusses toussé" />
+<card number="87" text="il eût toussé" />
+<card number="88" text="nous eussions toussé" />
+<card number="89" text="vous eussiez toussé" />
+<card number="90" text="ils eussent toussé" />
+<card number="91" text="tousse" />
+<card number="92" text="toussons" />
+<card number="93" text="toussez" />
+<card number="94" text="aie toussé" />
+<card number="95" text="ayons toussé" />
+<card number="96" text="ayez toussé" />
+<card number="97" text="tousser" />
+<card number="98" text="avoir toussé" />
+<card number="99" text="toussant" />
+<card number="100" text="toussé" />
+</deck>

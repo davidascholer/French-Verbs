@@ -1,0 +1,102 @@
+<deck>
+<card number="1" text="je pars" />
+<card number="2" text="tu pars" />
+<card number="3" text="il part" />
+<card number="4" text="nous partons" />
+<card number="5" text="vous partez" />
+<card number="6" text="ils partent" />
+<card number="7" text="je partis" />
+<card number="8" text="tu partis" />
+<card number="9" text="il partit" />
+<card number="10" text="nous partîmes" />
+<card number="11" text="vous partîtes" />
+<card number="12" text="ils partirent" />
+<card number="13" text="je suis parti" />
+<card number="14" text="tu es parti" />
+<card number="15" text="il est parti" />
+<card number="16" text="nous sommes partis" />
+<card number="17" text="vous êtes partis" />
+<card number="18" text="ils sont partis" />
+<card number="19" text="je fus parti" />
+<card number="20" text="tu fus parti" />
+<card number="21" text="il fut parti" />
+<card number="22" text="nous fûmes partis" />
+<card number="23" text="vous fûtes partis" />
+<card number="24" text="ils furent partis" />
+<card number="25" text="je partais" />
+<card number="26" text="tu partais" />
+<card number="27" text="il partait" />
+<card number="28" text="nous partions" />
+<card number="29" text="vous partiez" />
+<card number="30" text="ils partaient" />
+<card number="31" text="je partirai" />
+<card number="32" text="tu partiras" />
+<card number="33" text="il partira" />
+<card number="34" text="nous partirons" />
+<card number="35" text="vous partirez" />
+<card number="36" text="ils partiront" />
+<card number="37" text="j'étais parti" />
+<card number="38" text="tu étais parti" />
+<card number="39" text="il était parti" />
+<card number="40" text="nous étions partis" />
+<card number="41" text="vous étiez partis" />
+<card number="42" text="ils étaient partis" />
+<card number="43" text="je serai parti" />
+<card number="44" text="tu seras parti" />
+<card number="45" text="il sera parti" />
+<card number="46" text="nous serons partis" />
+<card number="47" text="vous serez partis" />
+<card number="48" text="ils seront partis" />
+<card number="49" text="que je parte" />
+<card number="50" text="que tu partes" />
+<card number="51" text="qu'il parte" />
+<card number="52" text="que nous partions" />
+<card number="53" text="que vous partiez" />
+<card number="54" text="qu'ils partent" />
+<card number="55" text="que je sois parti" />
+<card number="56" text="que tu sois parti" />
+<card number="57" text="qu'il soit parti" />
+<card number="58" text="que nous soyons partis" />
+<card number="59" text="que vous soyez partis" />
+<card number="60" text="qu'ils soient partis" />
+<card number="61" text="que je partisse" />
+<card number="62" text="que tu partisses" />
+<card number="63" text="qu'il partît" />
+<card number="64" text="que nous partissions" />
+<card number="65" text="que vous partissiez" />
+<card number="66" text="qu'ils partissent" />
+<card number="67" text="que je fusse parti" />
+<card number="68" text="que tu fusses parti" />
+<card number="69" text="qu'il fût parti" />
+<card number="70" text="que nous fussions partis" />
+<card number="71" text="que vous fussiez partis" />
+<card number="72" text="qu'ils fussent partis" />
+<card number="73" text="je partirais" />
+<card number="74" text="tu partirais" />
+<card number="75" text="il partirait" />
+<card number="76" text="nous partirions" />
+<card number="77" text="vous partiriez" />
+<card number="78" text="ils partiraient" />
+<card number="79" text="je serais parti" />
+<card number="80" text="tu serais parti" />
+<card number="81" text="il serait parti" />
+<card number="82" text="nous serions partis" />
+<card number="83" text="vous seriez partis" />
+<card number="84" text="ils seraient partis" />
+<card number="85" text="je fusse parti" />
+<card number="86" text="tu fusses parti" />
+<card number="87" text="il fût parti" />
+<card number="88" text="nous fussions partis" />
+<card number="89" text="vous fussiez partis" />
+<card number="90" text="ils fussent partis" />
+<card number="91" text="pars" />
+<card number="92" text="partons" />
+<card number="93" text="partez" />
+<card number="94" text="sois parti" />
+<card number="95" text="soyons partis" />
+<card number="96" text="soyez partis" />
+<card number="97" text="partir" />
+<card number="98" text="être parti" />
+<card number="99" text="partant" />
+<card number="100" text="parti" />
+</deck>
